@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="background-watermark-container">
+    <div class="dokumenti-container">
+        <h1>Obrazci</h1>
+        {{ range .Paginator.Pages }}
+            {{ if eq .Params.kind "document" }}
+            {{ partial "dokumenti-card.html" . }}
+            {{ end }}
+        {{ end }}
+        <h1>Vloge</h1>
+        {{ range .Paginator.Pages }}
+            {{ if eq .Params.kind "vloga" }}
+            {{ partial "dokumenti-card.html" . }}
+            {{ end }}
+        {{ end }}
+    </div>
+</div>
+{{ end }}

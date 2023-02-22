@@ -1,0 +1,30 @@
+{{ define "main" }}
+<div class="welecome-screen">
+    <img src="/site-images/logos/logo-overlay.svg" alt="">
+    <div id="arrow-button">
+        <a href="#obvestila-anchor">
+            <img src="/site-images/double-arrow-bottom-icon.svg" alt="">
+        </a>
+    </div>
+</div>
+<div class="olfs-red-separator"></div>
+
+<div class="background-watermark-container" id="obvestila-anchor">
+    <div class="obvestila-container">
+        <h1>Obvestila</h1>
+    
+        <div class="obvestila-cards-container">
+            {{ range ( first 4 ( where .Site.RegularPages "Type" "obvestila" ).ByDate.Reverse ) }}
+                {{ partial "obvestila-card.html" . }}
+            {{end}}
+        </div>
+    
+        <a href="/obvestila" class="underline-link">Arhiv obvestil</a>
+    </div>
+</div>
+
+<div class="olfs-red-separator"></div>
+<div class="sponsors-index-container">
+    {{ partial "sponsors.html" . }}
+</div>
+{{ end }}

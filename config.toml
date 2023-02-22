@@ -1,0 +1,6 @@
+baseURL = 'https://olfs-test.dvorsak.xyz/'
+languageCode = 'sl'
+title = 'OLFS - Peskovnik'
+
+[params]
+dateFormat = "2. 1. 2006"

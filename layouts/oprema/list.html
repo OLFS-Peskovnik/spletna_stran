@@ -1,0 +1,10 @@
+{{ define "main" }}
+<div class="background-watermark-container">
+    <div class="obvestila-container">
+        <h1>Oprema</h1>
+        {{ range .Paginator.Pages }}
+            {{ partial "oprema-card.html" . }}
+        {{ end }}
+    </div>
+</div>
+{{ end }}

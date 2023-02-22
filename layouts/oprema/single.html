@@ -1,0 +1,28 @@
+{{ define "main" }}
+
+<div class="sigle-container">
+  <h1 class="title">{{ .Title }}</h1>
+  <div class="image-container">
+    {{ $img := (.Resources.ByType "image").GetMatch "*featured*" }}
+    {{with $img }}
+      <img src="{{ .Permalink }}" alt="" />
+    {{ end }}
+  </div>
+  <div>
+    <p class="description">
+      {{.Page.Description }}
+    </p>
+    <p class="date">Datum prevzema: {{ .Date.Format "2. 1. 2006" }}</p>
+    <b>Tehnični podatki:</b>
+    <ul>
+      {{ range .Params.features }}
+        <li>{{ . }}</li>
+      {{ end }}
+    </ul>
+  </div>
+  
+  <div class="single-content-container">
+    {{ .Content }}
+  </div>
+</div>
+{{ end }}

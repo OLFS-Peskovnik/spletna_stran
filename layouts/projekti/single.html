@@ -1,0 +1,15 @@
+{{ define "main" }}
+
+<div class="sigle-container">
+  <h1 class="section-title">Obvestilo:</h1>
+  <h1 class="title">{{ .Title }}</h1>
+  <h4 class="date">{{ .Date.Format "2. 1. 2006" }}</h4>
+  <!-- <h5 class="wordcount">Vsebina: {{ .WordCount }} besed</h5> -->
+  <p class="description">
+    {{.Page.Description }}
+  </p>
+  <div class="single-content-container">
+    {{ .Content }}
+  </div>
+</div>
+{{ end }}
