@@ -5,8 +5,7 @@ description: ""
 icon: ""
 ---
 
-# Dobrodošli v peskovniku!
-
-To je opis naše vizije.
-
-## Raziskuj, ustvarjaj,...
+# Poslanstvo:
+Poslanstvo OLFS je, da postane osrednja skupnost študentskega inženirskega udejstvovanja ter inovativnosti Fakultete za strojništvo, Univerze v Ljubljani. 
+# Vizija:
+Vizija OLFS je, da vsak inženir strojništva postane izvrsten inženir, timski igralec, mentor, inovator in družbeno odgovorna oseba, ki se nikoli ne neha učiti.
