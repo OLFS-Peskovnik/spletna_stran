@@ -1,7 +1,7 @@
 ---
 title: "O peskovniku"
 date: 2022-12-01T17:02:25+01:00
-description: ""
+description: "Vizija in Poslanstvo Peskovnika - odprtega laboratorija Fakultete za strojništvo Univerze v Ljubljani"
 icon: ""
 ---
 
