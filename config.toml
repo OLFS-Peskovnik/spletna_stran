@@ -1,6 +1,6 @@
-baseURL = 'https://olfs-test.dvorsak.xyz/'
+baseURL = 'https://peskovnik.fs.uni-lj.si/'
 languageCode = 'sl'
-title = 'OLFS - Peskovnik'
+title = 'Peskovnik - Odprti laboratorij Fakultete za strojništvo UL'
 
 [params]
 dateFormat = "2. 1. 2006"
