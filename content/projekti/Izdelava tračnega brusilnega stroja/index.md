@@ -10,6 +10,6 @@ Cilj projekta je narediti tračni brusilni stroj, ki ga lahko uporabljamo v vert
 Dodatni cilji:
 - preprosta izdelava (majhno število kosov)
 - narediti uporabi varen izdelek
-- cenena izdelava (ne prekoračimo cene 700€)
+- nizki stroški izdelave (ne prekoračimo cene 700€)
 - vključimo tehnologijo 3D tiska
 - narediti 3D model in risbe izdelka
