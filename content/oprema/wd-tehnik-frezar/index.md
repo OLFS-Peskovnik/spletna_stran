@@ -8,4 +8,5 @@ features: ["1","2"]
 # Tehnični podatki:
 | naziv | veličina | enota |
 | :-- | :-- | :-- |
+| Datum prevzema | Oktober 2022 |  |
 # Opis

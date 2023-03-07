@@ -13,6 +13,7 @@ description: ""
 | Moč laserskega izvora | 100 | W |
 | Graviranje | pleksi,  les, usnje, karton, blago, eloksirani aliminij |  |
 | Rezanje | les, karton, usnje, goba, stiropor, pleksi, folija |  |
+| Datum prevzema | Marec 2022 |  |
 ## Opis
 HyperCut Laser 6090 Pro je CO2 laserski stroj za rezanje in graviranje nekovinskih materialov. Stroj ima 100W laserski vir, ki omogoča natančno rezanje materialov do debeline 20 mm. Stroj ima delovno površino 600 x 900 x 300 mm. Opremljen je s sodobno nadzorno enoto, ki omogoča enostavno upravljanje stroja in zagotavlja natančno ponovljivost rezultatov. 
 

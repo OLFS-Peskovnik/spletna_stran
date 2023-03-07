@@ -199,11 +199,18 @@ nav {
 
 .welecome-screen {
   width: 100%;
-  height: calc(100vh - 6rem - 1rem);
-  background-image: url("/site-images/wallpapers/olfs-prostor5.jpg");
+  height: calc(100vh - 6rem - 0.5rem);
+  // background-image: url("/site-images/wallpapers/olfs-prostor5.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+
+  .gallery{
+    width: 100%;
+    height: calc(100vh - 6rem - 1rem);
+    object-fit: cover;
+
+  }
 
   img {
     width: 90%;
