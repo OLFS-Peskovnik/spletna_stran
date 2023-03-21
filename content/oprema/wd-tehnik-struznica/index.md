@@ -4,7 +4,7 @@ date: 2023-01-03T17:02:25+01:00
 description: ""
 ---
 # Tehnični podatki:
-| naziv | veličina | enota |
+| naziv |   | enota |
 | :-- | :-- | :-- |
 | maksimalna dolžina obdelovanca | 1000 | mm |
 | hitrost vrtenja vretena | 45 - 1800 | RPM |
