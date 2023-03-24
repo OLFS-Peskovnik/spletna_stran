@@ -90,3 +90,15 @@ V ukazni vrstici poženemo:
 
 ## Dodajanje ali odstranjevanje donatorjev
 Donatorje urejamo v datoteki: `layouts\partials\sponsors.html`
+
+# Pošiljanje sprememb na strežnik GitHub
+Ko smo zadovoljni z narejenimi spremembami jih pošljemo na strežnik. Najprej v projketni mapi odpremo ukazno vrstico in poženemo naslednje ukaze:
+```bash
+git add content
+```
+```bash
+git commit -m "<Kratek opis sprememb>"
+```
+```bash
+git push origin main
+```
