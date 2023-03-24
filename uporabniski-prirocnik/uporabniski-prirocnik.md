@@ -1,6 +1,6 @@
 
 # Navodila za uporabo
-Spletna stran je zgrajena s sistemom [Hugo](https://gohugo.io/) je sistem za generiranje statičnih spletnih strani. Vsebino spletne strani dodajamo v obliki markdown (`.md`) datotek. Sisem hugo nato te datoteke pretvori v `.html` datoteke, ki jih prikaže brskalnik.
+Spletna stran je zgrajena s sistemom za generiranje statičnih spletnih strani [Hugo](https://gohugo.io/). Vsebino spletne strani dodajamo v obliki markdown (`.md`) datotek. Sisem hugo nato te datoteke pretvori v `.html` datoteke, ki jih prikaže brskalnik.
 
 ## Potrebna programska oprema
 Za urejanje spletne strani potrebujemo naslednja orodja:
