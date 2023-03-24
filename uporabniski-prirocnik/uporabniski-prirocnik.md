@@ -31,7 +31,7 @@ Prenesemo [Hugo](https://github.com/gohugoio/hugo/releases), razširimo `.zip` d
 ```bash
 ./hugo.exe serve
 ```
-S tem se zažene razvojni strežnik, ki omogoča lokalni predogled spletne strani na naslovu: [http://localhost:1313/](http://localhost:1313/). 
+S tem se zažene razvojni strežnik, ki omogoča lokalni predogled spletne strani na naslovu: [http://localhost:1313/](http://localhost:1313/). Ko urejamo datoteke, razvojnega strežnika ne zapiramo, saj razvojni strežnik avtomatično prikaže spremembe, ko shranimo spremenjeno datoteko. Ko želimo razvojni strežnik zapreti pritisnemo kombinacijo tipk ` Ctrl + C` .
 
 # Dodajanje vsebin
 Vsebine dodajamo v mapi `content`, kjer se nahajajo pod-mape za različne tipe vsebin.
