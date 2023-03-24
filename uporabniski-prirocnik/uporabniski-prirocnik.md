@@ -2,6 +2,25 @@
 # Navodila za uporabo
 Spletna stran je zgrajena s sistemom za generiranje statičnih spletnih strani [Hugo](https://gohugo.io/). Vsebino spletne strani dodajamo v obliki markdown (`.md`) datotek. Sisem hugo nato te datoteke pretvori v `.html` datoteke, ki jih prikaže brskalnik.
 
+---
+
+## Kazalo
+Priprava:
+- [Potrebna programska oprema](#potrebna-programska-oprema)
+- [Prenos datotek s strežnika](#prenos-datotek-s-strežnika)
+- [Predogled spletne strani](#predogled-spletne-strani)
+
+Dodajanje vsebin:
+- [Novo obvestila](#novo-obvestilo)
+- [Nov dokument](#nov-dokument)
+- [Nova oprema](#nova-oprema)
+- [Nov projekt](#nov-projekt)
+
+Posodabljanje spletne strani:
+- [Pošiljanje sprememb na strežnik](#pošiljanje-sprememb-na-strežnik-github)
+
+---
+
 ## Potrebna programska oprema
 Za urejanje spletne strani potrebujemo naslednja orodja:
 - urejevalnik teksta (priporočamo [VS Code](https://code.visualstudio.com/), [Notepad++](https://notepad-plus-plus.org/),...)
@@ -10,7 +29,7 @@ Za urejanje spletne strani potrebujemo naslednja orodja:
 
 Ko na računalnik namestimo Git se namesti tudi ukazna vrstica Git Bash. V nadaljevanju so navedeni ukazi, ki jih moramo pognati v Git Bash (in ne PowerShell ali CMD, saj se ti nekoliko razlikujeta).
 
-## Priprava
+## Prenos datotek s strežnika
 Preden pričnemo z urejanjem spletne strani moramo s GitHib strežnika prenesti repozitorij.
 ### 0) Izberemo lokacijo, kjer želimo da se prenesejo datoteke
 ### 1) Z desnim miškinim gumbom kliknemo na praznem prostor
@@ -38,7 +57,7 @@ Vsebine dodajamo v mapi `content`, kjer se nahajajo pod-mape za različne tipe v
 
 Vsebne lahko dodajamo na dva načina:
 - z ročnim dodajanjam datotek
-- avtomatsko - z programom Hugo (potreban je [namestitev](#5-hugo)).
+- avtomatizirano - z programom Hugo (potreban je [namestitev](#5-hugo)).
 
 Priporočena je uporaba slednjega načina, saj se s tem močno zmanjšajo močnosti za napake.
 
@@ -69,7 +88,7 @@ Pazimo da je datum zapisan v naslednjem formatu:
 | m | **minuta** (npr.: `05` za pet minut) |
 | s | **sekunda** (npr.: `00`) |
 
-Ker ure, še posebej pa minute in sekunda niso tako pomembne lahko v njihova polja vpišemo `00`, **pomembno pa je da se držimo predpisanega formata in jih ne izpustimo!** Torej na primer: `2023-04-20T00:00:00+01:00`
+Ker ure, še posebej pa minute in sekunda niso tako pomembne lahko v njihova polja vpišemo `00`. **Pomembno pa je, da se držimo predpisanega formata in jih ne izpustimo!** Torej, na primer: `2023-04-20T00:00:00+01:00`
 
 ## Nov dokument:
 V ukazni vrstici poženemo:
