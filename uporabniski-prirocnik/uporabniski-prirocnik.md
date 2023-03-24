@@ -68,6 +68,7 @@ Pazimo da je datum zapisan v naslednjem formatu:
 | h | **ura** (npr.: `16` za četrto uro popoldne) |
 | m | **minuta** (npr.: `05` za pet minut) |
 | s | **sekunda** (npr.: `00`) |
+
 Ker ure, še posebej pa minute in sekunda niso tako pomembne lahko v njihova polja vpišemo `00`, **pomembno pa je da se držimo predpisanega formata in jih ne izpustimo!** Torej na primer: `2023-04-20T00:00:00+01:00`
 
 ## Nov dokument:
