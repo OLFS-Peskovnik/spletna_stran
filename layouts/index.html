@@ -3,33 +3,13 @@
     <!-- Slideshow container -->
 <div class="gallery-container">
     <div class="slideshow-container">
+
+        {{ range os.ReadDir "static/site-images/wallpapers" }}
+            <div class="mySlides fade">
+                <img class="gallery" src="site-images/wallpapers/{{ .Name }}" style="width:100%"> 
+            </div>
+        {{  end }}
     
-        <!-- Full-width images with number and caption text -->
-        <div class="mySlides fade">
-          <img class="gallery" src="site-images/wallpapers/20221122_153255.jpg" style="width:100%">
-          <!-- src="site-images\wallpapers\olfs-prostor3.jpg" -->
-        </div>
-      
-        <div class="mySlides fade">
-          <img class="gallery" src="site-images/wallpapers/20221122_162744.jpg" style="width:100%"> 
-          <!-- src="site-images\wallpapers\olfs-prostor5.jpg" -->
-        </div>
-        <div class="mySlides fade">
-            <img class="gallery" src="site-images/wallpapers/20221124_164831.jpg" style="width:100%"> 
-            <!-- src="site-images\wallpapers\olfs-prostor5.jpg" -->
-        </div>
-        <div class="mySlides fade">
-            <img class="gallery" src="site-images/wallpapers/20230224_115512.jpg" style="width:100%"> 
-            <!-- src="site-images\wallpapers\olfs-prostor5.jpg" -->
-        </div>
-        <div class="mySlides fade">
-            <img class="gallery" src="site-images/wallpapers/20230228_142226.jpg" style="width:100%"> 
-            <!-- src="site-images\wallpapers\olfs-prostor5.jpg" -->
-        </div>
-        <div class="mySlides fade">
-            <img class="gallery" src="site-images/wallpapers/20230309_140021.jpg" style="width:100%"> 
-            <!-- src="site-images\wallpapers\olfs-prostor5.jpg" -->
-        </div>
         <script>
             let slideIndex = 0;
             showSlides()
