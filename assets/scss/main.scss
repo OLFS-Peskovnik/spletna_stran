@@ -213,6 +213,30 @@ nav {
   }
 }
 
+// .prijava-delavnice {
+//   position: absolute;
+//   top: 65vh;
+//   left: 2vw;
+//   color: white;
+//   font-size: 3rem;
+// }
+// .prijava-delavnice:hover {
+//   color: $olfs-red;
+// }
+.prijava-delavnice {
+  position: absolute;
+  top: 60vh;
+  left: 2vw;
+  color: white;
+  font-size: 2rem;
+  border-radius: 1rem;
+  border: solid 3px $olfs-red;
+  padding: 1rem;
+}
+.prijava-delavnice:hover {
+  background-color: $olfs-red;
+}
+
 
 .mySlides {
   display: none;
@@ -693,5 +717,24 @@ footer {
       width: 64px;
       height: auto;
     }
+  }
+}
+
+.delavnica-header-container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  a {
+    color: $olfs-dark-gray;
+    font-size: 2rem;
+    border: 3px $olfs-red solid;
+    padding: 0.5rem;
+    border-radius: 1rem;
+  }
+  a:hover {
+    background-color: $olfs-red;
+    color: white;
   }
 }

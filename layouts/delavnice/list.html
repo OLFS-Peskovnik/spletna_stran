@@ -1,0 +1,10 @@
+{{ define "main" }}
+<div class="background-watermark-container">
+    <div class="obvestila-container">
+        <h1>Arhiv obvestil</h1>
+        {{ range .Paginator.Pages }}
+            {{ partial "obvestila-card.html" . }}
+        {{ end }}
+    </div>
+</div>
+{{ end }}

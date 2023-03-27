@@ -45,6 +45,9 @@
     <!-- <img class="gallery" src="/site-images/wallpapers/olfs-prostor5.jpg" alt=""> -->
     <img src="/site-images/logos/logo-overlay.svg" alt="">
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSew6TxBKQ5qjqp8A6A45_p9B-yLUqtnxf8B5OBVf6H6qXi5Iw/viewform" class="button">PRIJAVA NA NOVICE</a>
+    {{ range ( first 1 ( where .Site.RegularPages "Type" "delavnice" ).ByDate.Reverse ) }}
+            <a class="prijava-delavnice" href="{{ .Page.Params.Prijava }}">Prijava na delavnice</a>
+        {{end}}~
     <div id="arrow-button">
         <a href="#obvestila-anchor">
             <img src="/site-images/double-arrow-bottom-icon.svg" alt="">
@@ -54,6 +57,17 @@
 <div class="olfs-red-separator"></div>
 
 <div class="background-watermark-container" id="obvestila-anchor">
+
+    <div class="obvestila-container">
+        <h1>Prihajajoče delavnice</h1>
+    
+        <div class="obvestila-cards-container">
+            {{ range ( first 4 ( where .Site.RegularPages "Type" "delavnice" ).ByDate.Reverse ) }}
+                {{ partial "obvestila-card.html" . }}
+            {{end}}
+        </div>
+    </div>
+
     <div class="obvestila-container">
         <h1>Obvestila</h1>
     
