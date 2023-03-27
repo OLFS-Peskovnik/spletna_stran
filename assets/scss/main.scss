@@ -149,7 +149,7 @@ nav {
 
 .welecome-screen {
   width: 100%;
-  height: calc(100vh - 12rem);
+  height: calc(100vh - 7rem);
   // border: solid greenyellow 2px;
   // background-image: url("/site-images/wallpapers/olfs-prostor5.jpg");
   // background-repeat: no-repeat;
@@ -596,6 +596,10 @@ footer {
         }
       }
     }
+    .podporniki-container {
+      width: 20%;
+      justify-content: center;
+    }
   }
   p {
     text-align: center;
@@ -609,8 +613,9 @@ footer {
     // margin-left: auto;
     // margin-right: auto;
     img {
-      width: 64px;
+      width: 3rem;
       height: auto;
+      max-height: 3rem;
     }
   }
 }
@@ -636,7 +641,7 @@ footer {
 
 @media (max-width:1100px) {
   nav {
-      // border: solid 1px red;
+      // border: solid 3px greenyellow;
       flex-direction: column;
       height: auto;
       width: 100%;
@@ -664,7 +669,7 @@ footer {
     }
   }
   .welecome-screen {
-    // height: calc(100vh - 6rem - 0.5rem - 10rem);
+    height: calc(100vh - 12rem);
     // margin-top: ;
     .gallery {
       height: calc(100vh - 12rem);
@@ -680,7 +685,7 @@ footer {
     .prijava-delavnice {
       width: 17rem;
       left: calc(50vw - 8.5rem);
-      top: 70vh;
+      top: 40rem;
     }
   }
   .obvestilo-card {
@@ -689,6 +694,16 @@ footer {
     }
     .text-container {
       margin: auto;
+      h1 {
+        font-size: 2rem;
+        text-align: center;
+      }
+      h3 {
+        text-align: center;
+      }
+      p {
+        display: none;
+      }
     }
   }
   footer {
@@ -696,6 +711,10 @@ footer {
       flex-direction: column;
       .contact-container {
         flex-direction: column;
+      }
+      .podporniki-container {
+        width: 90%;
+        display: flex;
       }
     }
   }
