@@ -1,5 +1,5 @@
 ---
-title: "Razvoj visoko-hitrostnega 3D tiskalnika za trajnostno proizvodnjo izdelkov brez materialnega odpada"
+title: "Razvoj visoko-hitrostnega 3D tiskalnika"
 date: 2022-10-01T17:02:25+01:00
 description: "Cilj ekipe je bil  sestaviti visokohitrostni CoreXY 3D tiskalnik."
 projektnoobdobje: "Zima 2022"
