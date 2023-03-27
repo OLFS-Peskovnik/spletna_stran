@@ -59,7 +59,7 @@
 <div class="background-watermark-container" id="obvestila-anchor">
 
     <div class="obvestila-container">
-        <h1>Prihajajoče delavnice</h1>
+        <h1>Prihajajoče delavnice:</h1>
     
         <div class="obvestila-cards-container">
             {{ range ( first 4 ( where .Site.RegularPages "Type" "delavnice" ).ByDate.Reverse ) }}
@@ -69,7 +69,7 @@
     </div>
 
     <div class="obvestila-container">
-        <h1>Obvestila</h1>
+        <h1>Obvestila:</h1>
     
         <div class="obvestila-cards-container">
             {{ range ( first 4 ( where .Site.RegularPages "Type" "obvestila" ).ByDate.Reverse ) }}
