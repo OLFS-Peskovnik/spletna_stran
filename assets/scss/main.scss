@@ -93,7 +93,7 @@ nav {
   // margin-top: 8px;
   width: 100%;
   height: calc(100vh - 6rem - 0.5rem - 8px);
-  background: linear-gradient(to right, rgba(0, 0, 0, 255), rgba(0, 0, 0, 0.3));
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0));
 }
 
 .tagline {
@@ -161,13 +161,14 @@ nav {
     height: calc(100vh - 6rem - 1rem);
     object-fit: cover;
     margin-bottom: .5rem;
+    // display: none;
 
   }
 
   .overlays {
     width: 90%;
     position: absolute;
-    bottom: 0.5rem;
+    bottom: 0.6rem;
     margin-bottom: 0rem;
     right: 0;
   }
@@ -191,6 +192,27 @@ nav {
     width: 15rem;
     left: calc(50vw - 7.5rem);
   }
+}
+
+.podporniki-container {
+  border-top: solid $olfs-red 1rem;
+  position: absolute;
+  bottom: 1rem;
+  background-color: white;
+  // background-color: rgba(255,255,255,0.4);
+  // background-image: linear-gradient(to right, rgba(255,255,255,0), rgba(255,255,255,0.5));
+  height: 11rem;
+  width: 100%;
+  ul {
+    
+    padding-left: 2vw;
+    height: 11rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  // width: 20%;
+  // justify-content: center;
 }
 
 #arrow-button {
@@ -595,10 +617,6 @@ footer {
           font-weight: 400;
         }
       }
-    }
-    .podporniki-container {
-      width: 20%;
-      justify-content: center;
     }
   }
   p {
