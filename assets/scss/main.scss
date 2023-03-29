@@ -211,6 +211,12 @@ nav {
     flex-direction: row;
     align-items: center;
   }
+  p {
+    margin-left: 1em;
+    position: absolute;
+    bottom: 0.5rem;
+    color: $olfs-dark-gray;
+  }
   // width: 20%;
   // justify-content: center;
 }
@@ -627,9 +633,9 @@ footer {
   .social-icons {
     // border: red 1px solid;
     display: flex;
-    flex-flow: row;
+    flex-flow: column;
     // margin-left: auto;
-    // margin-right: auto;
+    margin-right: 2rem;
     img {
       width: 3rem;
       height: auto;
