@@ -1,6 +1,6 @@
 ---
 title: "Delavnice v tednu 3.5.-5.5.2023"
-date: 2023-05-3T10:00:00+01:00
+date: 2023-05-03T10:00:00+01:00
 description: ""
 prijava: "https://1ka.arnes.si/a/4016a975"
 ---

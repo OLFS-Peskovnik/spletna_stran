@@ -1,6 +1,6 @@
 ---
 title: "Delavnice v tednu 8.5.-12.5.2023"
-date: 2023-05-8T10:00:00+01:00
+date: 2023-05-08T10:00:00+01:00
 description: ""
 prijava: "https://1ka.arnes.si/a/b918d507"
 ---
