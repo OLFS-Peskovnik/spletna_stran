@@ -1,6 +1,6 @@
 ---
 title: "Delavnice v tednu 15.5.- 19.5.2023"
-date: 2023-05-15T10:00:00+01:00
+date: 2023-05-14T10:00:00+01:00
 description: ""
 prijava: "https://1ka.arnes.si/a/9e310308"
 ---
