@@ -48,7 +48,7 @@ Prenesemo [Hugo](https://github.com/gohugoio/hugo/releases), razširimo `.zip` d
 ## Predogled spletne strani
 Če si želimo ogledati narejene spremembe, preden jih pošljemo na GitHub strežnik, lahko znotraj projektne mape (`spletna_stran`) odpremo ukazno vrstico (glej [Priprava](#priprava)) in poženemo naslednji ukaz:
 ```bash
-./hugo.exe serve
+./hugo.exe server
 ```
 S tem se zažene razvojni strežnik, ki omogoča lokalni predogled spletne strani na naslovu: [http://localhost:1313/](http://localhost:1313/). Ko urejamo datoteke, razvojnega strežnika ne zapiramo, saj razvojni strežnik avtomatično prikaže spremembe, ko shranimo spremenjeno datoteko. Ko želimo razvojni strežnik zapreti pritisnemo kombinacijo tipk ` Ctrl + C` .
 
