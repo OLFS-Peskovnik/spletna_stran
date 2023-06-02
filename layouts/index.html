@@ -94,16 +94,6 @@
 <div class="background-watermark-container" id="obvestila-anchor">
 
     <div class="obvestila-container">
-        <h1>Prihajajoče delavnice:</h1>
-    
-        <div class="obvestila-cards-container">
-            {{ range ( first 4 ( where .Site.RegularPages "Type" "delavnice" ).ByDate.Reverse ) }}
-                {{ partial "delavnice-card.html" . }}
-            {{end}}
-        </div>
-    </div>
-
-    <div class="obvestila-container">
         <h1>Obvestila:</h1>
     
         <div class="obvestila-cards-container">
@@ -114,6 +104,17 @@
     
         <a href="/obvestila" class="underline-link">Arhiv obvestil</a>
     </div>
+
+    <div class="obvestila-container">
+        <h1>Prihajajoče delavnice:</h1>
+    
+        <div class="obvestila-cards-container">
+            {{ range ( first 4 ( where .Site.RegularPages "Type" "delavnice" ).ByDate.Reverse ) }}
+                {{ partial "delavnice-card.html" . }}
+            {{end}}
+        </div>
+    </div>
+    
 </div>
 
 <div class="olfs-red-separator"></div>
