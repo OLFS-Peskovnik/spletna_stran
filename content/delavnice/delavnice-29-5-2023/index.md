@@ -14,9 +14,6 @@ Izvajalec: Vid Nemec
 
 Na delavnici se bomo spoznali z osnovami FDM oz. FFF 3D tiskalnikov. Pogledali si bomo različne vrste 3D tiska, načinov premikanja in podajanja filamentov. Spoznali bomo tudi različne vrste filamentov, šob in podlag za tiskanje.
 
-Podrobno si bomo ogledali tudi program PrusaSlicer in različne nastavitve, ki jih ponuja. 
-Dotaknili se bomo tudi raličnih »firmw	are«-ov in njihovih uporabniških vmesnikov. 
-
 Vsak udeleženec si bo lahko natisnil svoj kos. 
 Pogledali si bomo različne strani z brezplačnimi knjižnicami modelov in izdelkov.
 ####  PRIJAVA: https://1ka.arnes.si/a/d49bd78b
