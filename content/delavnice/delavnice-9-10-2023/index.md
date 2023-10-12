@@ -1,6 +1,6 @@
 ---
 title: "Delavnice v tednu 9.10. - 13.10.2023"
-date: 2023-10-6T15:04:43+02:00
+date: 2023-10-09T15:04:43+02:00
 description: ""
 prijava: "https://1ka.arnes.si/a/370b88da"
 ---
