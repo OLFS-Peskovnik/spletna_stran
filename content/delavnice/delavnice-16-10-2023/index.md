@@ -22,7 +22,7 @@ V okviru delavnice se bomo naučili osnove programskega jezika C++, zgradbo Ardu
 
 Sveže znanje bomo v živo preizkusili na Arduino mikrokrmilnikih, kjer bomo povezali in sprogramirali nekaj osnovnih demonstracijskih primerov.<
 
-Udeleženci naj imajo s seboj lasten laptop.
+Udeleženci naj imajo s seboj lasten laptop. 
 ####  PRIJAVA: https://1ka.arnes.si/a/178fd698
 
 &nbsp;
