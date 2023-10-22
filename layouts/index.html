@@ -35,39 +35,6 @@
         <!-- <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
         <a class="next" onclick="plusSlides(1)">&#10095;</a> -->
         <!-- <div class="separator-top"></div> -->
-        <div class="podporniki-container">
-            <ul style="list-style: none;">
-                <li style="margin-bottom: 10px;">
-                    <a
-                        href="https://www.gov.si/drzavni-organi/ministrstva/ministrstvo-za-visoko-solstvo-znanost-in-inovacije/">
-                        <img src="/site-images/podporniki/Logo-MVZI-slo.png"
-                            alt="Ministrstvo za visoko šolstvo znanost in inovacije"
-                            style="width: 170px; height: auto; object-fit: contain;margin: auto;">
-                    </a>
-                </li>
-                <li>
-                    <a href="https://www.fs.uni-lj.si/">
-                        <img src="/site-images/podporniki/UNI-logo_in_FS-color-SLO-curve.png"
-                            alt="Fakulteta za Strojništvo, Univerza v Ljubljani"
-                            style="width: 125px; height: auto; object-fit: contain;margin: auto;">
-                    </a>
-                </li>
-                <li style="margin-bottom: 10px;">
-                    <a href="https://www.gov.si/zbirke/projekti-in-programi/nacrt-za-okrevanje-in-odpornost/">
-                        <img src="/site-images/podporniki/NOO_Logo_RGB_primarni_SI_gradient.png"
-                            alt="Načrt za okrevanje in odpornost"
-                            style="width: 170px; height: auto; object-fit: contain;margin: auto;">
-                    </a>
-                </li>
-                <li>
-                    <a href="https://www.eu-skladi.si/sl/po-2020/nacrt-za-okrevanje-in-krepitev-odpornosti">
-                        <img src="/site-images/podporniki/SL-Financira-Evropska-unija_POS.png" alt="Evropska unija"
-                            style="width: 170px; height: auto; object-fit: contain;margin: auto;">
-                    </a>
-                </li>
-            </ul>
-            <p>Projekt sofinancirata Republika Slovenija, Ministrstvo za visoko šolstvo, znanost in šport ter Evropska unija – NextGenerationEU</p>
-        </div>
     </div>
     <br>
     <!-- The dots/circles -->
@@ -120,5 +87,29 @@
 <div class="olfs-red-separator"></div>
 <div class="sponsors-index-container">
     {{ partial "sponsors.html" . }}
+</div>
+<div class="sponsors-container">
+    <div style="vertical-align: middle;">
+            <a href="https://www.gov.si/drzavni-organi/ministrstva/ministrstvo-za-visoko-solstvo-znanost-in-inovacije/">
+                <img src="/site-images/podporniki/Logo-MVZI-slo.png"
+                    alt="Ministrstvo za visoko šolstvo znanost in inovacije"
+                    style="width: 170px; height: auto; margin: auto;">
+            </a>
+            <a href="https://www.fs.uni-lj.si/">
+                <img src="/site-images/podporniki/UNI-logo_in_FS-color-SLO-curve.png"
+                    alt="Fakulteta za Strojništvo, Univerza v Ljubljani"
+                    style="width: 125px; height: auto;margin: auto;">
+            </a>
+            <a href="https://www.gov.si/zbirke/projekti-in-programi/nacrt-za-okrevanje-in-odpornost/">
+                <img src="/site-images/podporniki/NOO_Logo_RGB_primarni_SI_gradient.png"
+                    alt="Načrt za okrevanje in odpornost"
+                    style="width: 170px; height: auto; margin: auto;">
+            </a>
+            <a href="https://www.eu-skladi.si/sl/po-2020/nacrt-za-okrevanje-in-krepitev-odpornosti">
+                <img src="/site-images/podporniki/SL-Financira-Evropska-unija_POS.png" alt="Evropska unija"
+                    style="width: 170px; height: auto; margin: auto;">
+            </a>
+        </div>
+    <p>Projekt sofinancirata Republika Slovenija, Ministrstvo za visoko šolstvo, znanost in šport ter Evropska unija – NextGenerationEU</p>
 </div>
 {{ end }}
