@@ -8,7 +8,7 @@ prijava: "https://1ka.arnes.si/a/c7b2410a"
 ### Ponedeljek , 13.11.2023, ob 15:00
 
 
-**Izvajalec:**David Kolšek
+**Izvajalec:** David Kolšek
 
 **Število udeležencev:** 6
 
