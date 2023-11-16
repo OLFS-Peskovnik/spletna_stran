@@ -1,6 +1,6 @@
 ---
 title: "Delavnice v tednu 20.11. - 24.11.2023"
-date: 2023-11-20T10:00:00+02:00
+date: 2023-11-16T09:30:00+02:00
 description: ""
 prijava: "https://1ka.arnes.si/a/a2871b8f"
 ---
