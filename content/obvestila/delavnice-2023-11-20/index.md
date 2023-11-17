@@ -5,7 +5,7 @@ description: ""
 prijava: "https://1ka.arnes.si/a/a2871b8f"
 ---
 ## Trojček osnovnih delavnic
-### Petek, 20.11.2023, ob 14:00
+### Ponedeljek, 20.11.2023, ob 14:00
 
 
 **Izvajalec:** David Kolšek
