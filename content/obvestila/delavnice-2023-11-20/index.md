@@ -31,29 +31,8 @@ Delavnica varne uporabe Peskovnika zajema osnovna načela varnosti pri delu z or
 
 ####  PRIJAVA: https://1ka.arnes.si/a/a2871b8f
 
-
-&nbsp;
-&nbsp;
-## Rezkar za začetnike - 101
-### Torek, 21.11.2023, ob 15:00
-
-
-**Izvajalec:** Marko Kraner
-
-**Število udeležencev:** 3
-
-
-&nbsp;
-
-Na osnovni delavnici za rezkanje bo predstavljeno varno ravnanje z rezkalnim strojem, predstavljeni bodo parametri in načini rezkanja ter osnove vpenjanja in izbire orodja. Ogledali si bomo vse dele stroja in orodja ter vpenjala, in izdelali enostaven komad z nekaj utori.
-
-####  PRIJAVA: https://1ka.arnes.si/a/a2871b8f
-
-&nbsp;
-&nbsp;
-
 ## Stružnica za začetnike - 101
-### Sreda, 22.11.2023, ob 15:00
+### Torek, 21.11.2023, ob 15:00
 
 
 **Izvajalec:** Marko Kraner
@@ -67,6 +46,25 @@ Na osnovni delavnici za rezkanje bo predstavljeno varno ravnanje z rezkalnim str
 Na delavnici bomo spoznali osnovne pojme struženja, kinematiko, parametre, različne
 načini struženja, rezalna geometrija. Na stroju bomo pokazali glavne orientacijske smeri,
 glavne komponente stroja in spoznali različna orodja.
+
+####  PRIJAVA: https://1ka.arnes.si/a/a2871b8f
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+## Rezkar za začetnike - 101
+### Sreda, 22.11.2023, ob 15:00
+
+
+**Izvajalec:** Marko Kraner
+
+**Število udeležencev:** 3
+
+
+&nbsp;
+
+Na osnovni delavnici za rezkanje bo predstavljeno varno ravnanje z rezkalnim strojem, predstavljeni bodo parametri in načini rezkanja ter osnove vpenjanja in izbire orodja. Ogledali si bomo vse dele stroja in orodja ter vpenjala, in izdelali enostaven komad z nekaj utori.
 
 ####  PRIJAVA: https://1ka.arnes.si/a/a2871b8f
 
