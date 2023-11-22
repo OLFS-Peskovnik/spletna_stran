@@ -25,9 +25,9 @@ Vizija Peskovnika je, da vsak inženir strojništva postane izvrsten inženir, t
 - Osnove spajkanja
 
 ### Občasne delavnice:
--Osnove vzvratnega inženirstva
--Osnove GIT-a
--Osnove LaTex-a
--Osnove Python-a
--Osnove mikrokrmilnikov Arduino in C/C++ programiranja
--Osnove SQL podatkovnih baz
+- Osnove vzvratnega inženirstva,
+- Osnove GIT-a,
+- Osnove LaTex-a,
+- Osnove Python-a,
+- Osnove mikrokrmilnikov Arduino in C/C++ programiranja,
+- Osnove SQL podatkovnih baz,
