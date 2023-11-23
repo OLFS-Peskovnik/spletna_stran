@@ -1,6 +1,6 @@
 ---
 title: "Delavnice v tednu 27.11. - 1.12.2023"
-date: 2023-11-23T11:30:00+02:00
+date: 2023-11-23T10:30:00+02:00
 description: ""
 prijava: "https://1ka.arnes.si/a/31ab2123"
 ---
@@ -84,19 +84,18 @@ Krajša delavnica namenjena predstavitvi dela na projektih v Peskovniku. Njen na
 &nbsp;
 &nbsp;
 
-## Osnove LaTeX-a
+## Osnove spajkanja
 ### Petek, 1.12.2023, ob 15:00
 
 
-**Izvajalec:** Gabriel Pflaum
+**Izvajalec:** David Kolšek     
 
-**Število udeležencev:** 6
+**Število udeležencev:** 3
 
 &nbsp;
 
-Delavnica je namenjena udeležencem, ki se želijo naučiti uporabljati LaTeX sistem za pripravo dokumentov. Udeleženci se bodo naučili, kako napisati dokument v LaTeX-u, kako se pišejo matematične formule, vstavljajo slike in tabele, sklicuje na dele dokumenta in citira literaturo.
+Delavnica je namenjena študentom, ki želijo spoznati osnove spajkanja elektronskih komponent. Na delavnici se boste naučili, kako pravilno pripraviti spoj za spajkanje, kako uporabiti spajkalnik in kako varno rokovati z električnimi komponentami. Delavnica je zasnovana tako, da je primerna za začetnike in ne zahteva predhodnega znanja.
 
-#### Zaželen je lasten laptop.
 
 &nbsp;
 &nbsp;
