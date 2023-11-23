@@ -20,7 +20,7 @@ prijava: "https://1ka.arnes.si/a/31ab2123"
 
 **Število udeležencev:** 6
 
-**Dodatni pogoj:** Priporočena udeležba na delavnici "Arduino 101"
+**Dodatni pogoj:** Udeležba na delavnici "Arduino 101"
 
 &nbsp;
 
@@ -41,7 +41,7 @@ Na delavnici bomo nadgradili osnove programiranja mikrokrmilnikov, ki ste jih pr
 
 **Število udeležencev:** 3
 
-**Dodatni pogoj:** Priporočena udeležba na delavnici "Stružnica za začetnike 101"
+**Dodatni pogoj:** Udeležba na delavnici "Stružnica za začetnike 101"
 
 &nbsp;
 
@@ -59,7 +59,7 @@ Na delavnici bomo spoznali metode za natančno merjenje obdelovancev, se naučil
 
 **Število udeležencev:** 3
 
-**Dodatni pogoj:** Priporočena udeležba na delavnici "CAM Fusion 360 - 101"
+**Dodatni pogoj:** Udeležba na delavnici "CAM Fusion 360 - 101"
 
 &nbsp;
 
