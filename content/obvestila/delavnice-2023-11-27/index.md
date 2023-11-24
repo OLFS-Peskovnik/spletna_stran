@@ -13,7 +13,7 @@ prijava: "https://1ka.arnes.si/a/31ab2123"
 &nbsp;
 
 ## Arduino 102
-### Ponedeljek, 27.11.2023, ob 14:00
+### Ponedeljek, 27.11.2023, ob 15:00
 
 
 **Izvajalec:** David Kolšek
@@ -51,7 +51,7 @@ Na delavnici bomo spoznali metode za natančno merjenje obdelovancev, se naučil
 &nbsp;
 &nbsp;
 &nbsp;
-## CAM Fusion 360 - 102
+## CAM Fusion 360 - 101
 ### Sreda, 29.11.2023, ob 15:00
 
 
@@ -59,7 +59,6 @@ Na delavnici bomo spoznali metode za natančno merjenje obdelovancev, se naučil
 
 **Število udeležencev:** 3
 
-**Dodatni pogoj:** Udeležba na delavnici "CAM Fusion 360 - 101"
 
 &nbsp;
 
