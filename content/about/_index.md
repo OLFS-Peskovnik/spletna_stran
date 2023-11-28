@@ -19,15 +19,15 @@ Vizija Peskovnika je, da vsak inženir strojništva postane izvrsten inženir, t
 - Osnove 3D tiskanja - FDM,
 - Osnove 3D tiskanja - resin,
 - Osnove uporabe CO2 laserja,
-- Osnove uporabe konvencionalne stružnice,
-- Osnove uporabe konvecnionalnega rezkalnega stroja,
-- Osnvove CAM in CNC rezkarja - Fusion 360,
+- Stružnica za začetnike,
+- Rezkalni stroj za začetnike,
+- CAM v Fusion 360,
 - Osnove spajkanja
 
 ### Občasne delavnice:
+- Osnove mikrokrmilnikov Arduino in C/C++ programiranja,
 - Osnove vzvratnega inženirstva,
 - Osnove GIT-a,
 - Osnove LaTex-a,
 - Osnove Python-a,
-- Osnove mikrokrmilnikov Arduino in C/C++ programiranja,
-- Osnove SQL podatkovnih baz,
+- Osnove SQL-a,
