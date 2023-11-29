@@ -3,7 +3,21 @@ title: "CNC rezkalnik HyperCUT 60200 pro"
 date: 2023-01-03T17:02:25+01:00
 description: ""
 ---
-# Datum prevzema: 14.9.2022
-Rezkalni stroj HyperCut 60200 Pro je namenjen za natančno in učinkovito obdelavo različnih materialov, kot so les, akril, plastika, aluminij in baker . Opremljen z visokokakovostnimi komponentami in tehnologijo, ki zagotavlja hitro in zanesljivo obdelavo.
 
-Ima delovno površino velikosti 600 x 2000 mm in lahko obdela materiale do debeline 300 mm.Vakuumski sistem vpenjanja omogoča enostavno in hitro menjavo materialov.
+CNC rezkalnik se uporablja za natančno obdelavo različnih materialov, kot so pene, vezana plošča, masivni les, plastike in aluminij. Iz surovca materiala odstranjuje material s pomočjo rezkarjev različnih dimenzij in oblik do končnih dimenzij in oblik izdelka.
+
+&nbsp;
+
+CNC ima delovno površino velikosti 2000 x 600 x 300 mm. Opremljen je z vakuumsko mizo, ki na osmih prekatih drži ploščate obdelovance na mizi, poleg tega pa je za vpenjanje na voljo še _scrapboard_ in primež, ki se pritrdi na obdelovalno mizo. Stroj ima tri obdelovalne glave (ang. _spindle_), torej imamo lahko vpeta tri orodja hkrati, kar poveča učinkovitost obdelave.
+
+&nbsp;
+
+V Peskovniku za pripravo datotek za obdelavo uporabljamo program Autodesk Fusion 360.
+
+&nbsp;
+
+Za uporabo CNC rezkalnega stroja v Peskovniku je potrebno narediti usposabljanje "Fusion 360 CAM - 101", ki poteka v vnaprej napovedanih terminih, dostopnih na spletni strani Peskovnika.
+
+&nbsp;
+
+#### Datum prevzema stroja: 14.9.2022

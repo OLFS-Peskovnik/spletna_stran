@@ -3,7 +3,26 @@ title: "Laserski rezalnik HyperCUT 6090 PRO"
 date: 2023-01-03T17:02:25+01:00
 description: ""
 ---
-# Datum prevzema: 10.2.2023
 
-HyperCut Laser 6090 Pro je CO2 laserski stroj za rezanje in graviranje nekovinskih materialov. Stroj ima 100W laserski vir, ki omogoča natančno rezanje materialov do debeline 20 mm. Stroj ima delovno površino 600 x 900 x 300 mm. Opremljen je s sodobno nadzorno enoto, ki omogoča enostavno upravljanje stroja in zagotavlja natančno ponovljivost rezultatov. 
-Omogoča rezanje lesa, kartona, usnja, pene, stiroporja, akrilnega stekla, folija, ipd. in graviranje akrila, lesa, usnja, kartona, blaga, eloksiranega aliminija, ipd. 
+
+CO2 CNC laserski stroj se uporablja za rezanje in graviranje nekovinskih materialov. Stroj ima 100 W laserski vir, ki omogoča natančno rezanje materialov do debeline 18 mm.
+
+&nbsp;
+
+Laser ima delovno površino v XY-smeri 900 x 600 mm, v Z-smeri pa je za graviranje debelih obdelovancov možno spustiti mizico do 300 mm. 
+
+&nbsp;
+
+Omogoča rezanje in graviranje vezane plošče, masivnega lesa, kartona, usnja, pene, stiroporja, akrilnega stekla, folij, papirja ter blaga. Možno je tudi graviranje stekla eloksiranega aluminija ter označevanje drugih kovinskih materialov s pomočjo posebnega premaza.
+
+&nbsp;
+
+V Peskovniku za pripravo datotek za izrez in graviranje uporabljamo program RDWorks verzije 8.01.54.
+
+&nbsp;
+
+Za uporabo stroja v Peskovniku je potrebno narediti usposabljanje "Osnove CO2 laserja", ki poteka v vnaprej napovedanih terminih, dostopnih na spletni strani Peskovnika.
+
+&nbsp;
+
+# Datum prevzema stroja: 10.2.2023
