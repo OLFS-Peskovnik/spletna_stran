@@ -1,6 +1,6 @@
 ---
 title: "Delavnice v tednu 4.12. - 8.12.2023"
-date: 2023-11-30T10:30:00+02:00
+date: 2023-11-30T11:30:00+02:00
 description: ""
 prijava: "https://1ka.arnes.si/a/6da1ba00"
 ---
