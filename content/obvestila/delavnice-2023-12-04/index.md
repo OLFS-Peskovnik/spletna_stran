@@ -92,7 +92,7 @@ V programu Fusion 360 si bomo pogledali naprednejše operacije CAM, kar vključu
 &nbsp;
 
 ## Osnove kreativnega oblikovanja 2
-### Četrtek, 7.12.2023, ob 15:30
+### Četrtek, 7.12.2023, ob 16:00
 
 
 **Izvajalec:** Izvajalci iz ALUO
