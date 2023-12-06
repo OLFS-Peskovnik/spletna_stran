@@ -25,4 +25,4 @@ Za uporabo stroja v Peskovniku je potrebno narediti usposabljanje "Osnove CO2 la
 
 &nbsp;
 
-# Datum prevzema stroja: 10.2.2023
+#### Datum prevzema stroja: 10.2.2023

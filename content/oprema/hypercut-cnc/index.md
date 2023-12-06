@@ -12,7 +12,7 @@ CNC ima delovno površino velikosti 2000 x 600 x 300 mm. Opremljen je z vakuumsk
 
 &nbsp;
 
-V Peskovniku za pripravo datotek za obdelavo uporabljamo program Autodesk Fusion 360.
+V Peskovniku za pripravo datotek za obdelavo uporabljamo program Autodesk Fusion 360. Kontroler in vmesnik na CNC rezkalniku je Mach 3.
 
 &nbsp;
 
