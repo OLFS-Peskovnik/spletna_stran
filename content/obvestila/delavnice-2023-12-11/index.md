@@ -1,6 +1,6 @@
 ---
 title: "Delavnice v tednu 11.12. - 15.12.2023"
-date: 2023-12-07T9:30:00+02:00
+date: 2023-12-07T10:30:00+02:00
 description: ""
 prijava: "https://1ka.arnes.si/a/31ab2123"
 ---
