@@ -1,116 +1,133 @@
 ---
 title: "Delavnice v tednu 18.12. - 22.12.2023"
-date: 2023-12-14T10:30:00+02:00
+date: 2023-12-14T8:30:00+02:00
 description: ""
-prijava: "https://1ka.arnes.si/a/a1729c79"
+prijava: "https://1ka.arnes.si/a/28606a92"
 ---
 
-
----
-### PRIJAVE SO NA POVEZAVI: _https://1ka.arnes.si/a/a1729c79_
-&nbsp;
----
-&nbsp;
-
-## Osnove dirkanja z avtomobili
-### Ponedeljek, 11.12.2023, ob 15:00
-
-
-**Izvajalec:** Vid Nemec
-
-**Število udeležencev:** 10
-
-&nbsp;
-
-Delavnica je namenjena ljubiteljem hitrosti in adrenalina, ki želijo spoznati svet dirkanja iz prve roke. Na delavnici bomo osvetlili temeljne vidike dirkanja, vključno s tem, kako začeti svojo dirkaško pot z gokartom ali avtomobilom. Udeleženci bodo pridobili vpogled v različne dirkalne komponente za avtomobile ter razumeli, kako različna tehnologija in nastavitve vplivajo na zmogljivost vozila na dirkališču. Ne glede na to, ali ste začetnik ali že izkušen voznik, boste na delavnici odkrili ključne elemente, ki oblikujejo vzdušje dirkanja, ter pridobili znanje, ki vam bo pomagalo izboljšati vašo dirkaško izkušnjo.
-
+### PRIJAVE SO NA POVEZAVI: https://1ka.arnes.si/a/28606a92
 
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
 
-## Python - 102
-### Torek, 12.12.2023, ob 15:00
 
 
-**Izvajalec:** Tim Guzelj
+## Kako servisiram kolo?
+### Ponedeljek, 18.12.2023, ob 15:00
+
+
+**Izvajalec:** Rok Merše
 
 **Število udeležencev:** 6
 
 &nbsp;
 
-Na delavnici se bomo spoznali z delom z moduli, ki nam v Pythonu precej olajšajo programiranje, saj vsebujejo funkcije za specifične aplikacije (numpy, scipy, pandas za obdelavo podatkov, matplotlib za risanje grafov, pyserial za serijsko komunikacijo z Arduino), ki so jih že spisali drugi ljudje in za njih pripravili dokumentacijo.
-
-&nbsp;
-
-#### Udeleženci naj imajo s seboj lasten laptop z nameščenim Pythonom.
+Na delavnici se bomo naučili osnovnega popravljanja bicikljev.
 
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
-## CAM Fusion 360 - 103
-### Sreda, 13.12.2023, ob 15:00
-
-
-**Izvajalec:** Tit Jerman
-
-**Število udeležencev:** 3
-
-&nbsp;
-
-**Dodatni pogoj:** Zaželena udeležba na delavnicah "CAM Fusion 360 - 101 in 102"
-
-&nbsp;
-
-V programu Fusion 360 si bomo pogledali naprednejše operacije CAM, kar vključuje 3D rezkanje površin z različnimi operacijami in različnimi orodji. Pripravljeno G-kodo bomo tudi pognali na CNC rezkalnem stroju v peskovniku in izdelali preprost izdelek.
-
-&nbsp;
-
-#### Zaželeno je, da imajo udeleženci s seboj lasten laptop z nameščenim programom Autodesk Fusion 360.
-
-&nbsp;
-&nbsp;
-
-## Rezkar za začetnike - 102
-### Četrtek, 14.12.2023, ob 15:30
+## Stružnica za začetnike - 103
+### Torek, 19.12.2023, ob 15:00
 
 
 **Izvajalec:** Marko Kraner
 
 **Število udeležencev:** 3
 
-&nbsp;
-
-**Dodatni pogoj:** Zaželena udeležba na delavnici "Rezkar za začetnike - 101"
+**Dodatni pogoj:** Zaželena udeležba na delavnici "Stružnica za začetnike - 101 ali 102"
 
 &nbsp;
 
-Naučili se bomo dela z merilnim orodjem in natančnega merjenja obdelovancev in izdelkov, ter se naučili pozicionirati in uporabljati rotacijski delilnik.
+Na delavnici bomo spoznali naprednejšo uporabo stružnice za obdelavo kovin in pripradajočih orodij in vpenjal. Izdelali bomo preprostejši izdelek.
 
 &nbsp;
 &nbsp;
 
-## Stružnica za začetnike - 102
-### Petek, 15.12.2023, ob 15:00
+## Rezkar za začetnike - 103
+### Sreda, 20.12.2023, ob 15:00
 
 
-**Izvajalec:** Marko Kraner     
+**Izvajalec:** Marko Kraner
 
 **Število udeležencev:** 3
 
-&nbsp;
-
-**Dodatni pogoj:** Zaželena udeležba na delavnici "Stružnica za začetnike - 101"
+**Dodatni pogoj:** Zaželena udeležba na delavnicah "Rezkar za začetnike - 101 ali 102"
 
 &nbsp;
 
-Na delavnici bomo spoznali metode za natančno merjenje obdelovancev, se naučili zamenjati vpenjalno glavo in v njej precizno centrirati obdelovanec.
+Na delavnici bomo spoznali naprednejšo uporabo rezkalnega stroja in pripradajočih orodij in vpenjal. Izdelali bomo preprostejši izdelek.
+
+
+&nbsp;
+&nbsp;
+
+## Kako prijavim projekt v Peskovniku?
+### Četrtek, 21.12.2023, ob 14:00
+
+
+**Izvajalec:** Vid Pugelj     
+
+**Število udeležencev:** 6
+
+&nbsp;
+
+Na delavnici bomo razložili kako poteka postopek prijave projekta, članstva v Peskovniku in imeli možnost pogovora z dosedanjimi člani projektov.
+
 
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
----
-### PRIJAVE SO NA POVEZAVI: _https://1ka.arnes.si/a/a1729c79_
+
+## Trojček osnovnih delavnic
+### Petek, 22.12.2023, ob 14:00
+
+
+**Število udeležencev:** 6 na vsaki delavnici
+
+&nbsp;
+&nbsp;
+
+**Osnove 3D tiska - FDM**
+
+**Izvajalec:** Vid Pugelj
+
+&nbsp;
+
+Na delavnici se bomo spoznali z osnovami FDM oz. FFF 3D tiskalnikov. Pogledali si bomo različne vrste 3D tiska, načinov premikanja in podajanja filamentov. Spoznali bomo tudi različne vrste filamentov, šob in podlag za tiskanje.
+
+Podrobno si bomo ogledali tudi program PrusaSlicer in različne nastavitve, ki jih ponuja in različne spletne strani z brezplačnimi modeli. 
+
+&nbsp;
+
+**Osnove uporabe CO2 laserja**
+
+**Izvajalec:** Jakob Erhatič
+
+&nbsp;
+
+Na delavnici se bomo naučili, kako se varno uporablja CO2 laser, nastavlja njegove nastavitve in pripravlja grafike zanj v programu RDWorks. 
+
+&nbsp;
+
+**Varna uporaba Peskovnika**
+
+**Izvajalec:** David Kolšek
+
+&nbsp;
+
+Delavnica varne uporabe Peskovnika zajema osnovna načela varnosti pri delu z orodji, stroji in nevarnimi snovmi ter uporabo varnostne opreme. Namenjena je zagotavljanju varnega in produktivnega delovnega okolja v Peskovniku.
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+
+### PRIJAVE SO NA POVEZAVI: https://1ka.arnes.si/a/28606a92
+
