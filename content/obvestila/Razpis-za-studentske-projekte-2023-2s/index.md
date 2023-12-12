@@ -5,7 +5,7 @@ description: "Javni razpis za izvedbo študentskih projektov v Peskovniku – od
 ---
 
  
-Od današnjega dne je odprt razpis za izvedbo študentskih projektov v Peskovniku – odprtem laboratoriju Univerze v Ljubljani Fakultete za strojništvo v letnem semestru. 
+Z današnjim dnem je odprt razpis za izvedbo študentskih projektov v Peskovniku – odprtem laboratoriju Univerze v Ljubljani Fakultete za strojništvo v letnem semestru. 
 
 &nbsp;
 &nbsp;
@@ -16,4 +16,4 @@ Vsebina razpisa in pravilnik o pogojih za pridobitev sofinanciranja študentskih
 &nbsp;
 &nbsp;
 
-Projekt lahko prijavite na povezavi https://1ka.arnes.si/letniprojekti2324 do 15. 1. 2024. Vse prijave oddane do roka se bodo obravnavale enakovredno.
+Projekt lahko prijavite na povezavi https://1ka.arnes.si/letniprojekti2324 do 14. 1. 2024. Vse prijave oddane do roka se bodo obravnavale enakovredno.
