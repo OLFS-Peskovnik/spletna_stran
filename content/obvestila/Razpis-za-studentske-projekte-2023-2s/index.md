@@ -10,10 +10,32 @@ Z današnjim dnem je odprt razpis za izvedbo študentskih projektov v Peskovniku
 &nbsp;
 &nbsp;
 
-Vsebina razpisa in pravilnik o pogojih za pridobitev sofinanciranja študentskih projektov v Peskovniku sta dostopna na https://peskovnik.fs.uni-lj.si/dokumenti/.
+Razpisna dokumentacija in pravilnik o pogojih za pridobitev sofinanciranja študentskih projektov v Peskovniku sta dostopna na:
+
+&nbsp;
+
+#### [Razpisna dokumentacija](/dokumenti/razpis-za-studentske-projekte-2023-2s/)
+
+&nbsp;
+
+#### [Pravilnik o sofinanciranju](/dokumenti/pravilnik-o-pogojih-za-pridobitev-sofinanciranja-študentski-projektov-v-peskovniku/)
+
+
 
 &nbsp;
 &nbsp;
 &nbsp;
 
-Projekt lahko prijavite na povezavi https://1ka.arnes.si/letniprojekti2324 do 14. 1. 2024. Vse prijave oddane do roka se bodo obravnavale enakovredno.
+Projekt lahko prijavite do 14. 1. 2024 na spodnji povezavi:
+
+&nbsp;
+
+# [Prijava projekta](https://1ka.arnes.si/letniprojekti2324)
+
+&nbsp;
+
+Vse prijave oddane do roka se bodo obravnavale enakovredno.
+
+&nbsp;
+
+Glede dodatnih vprašanj glede razpisa nas kontaktirajte na peskovnik@fs.uni-lj.si.
