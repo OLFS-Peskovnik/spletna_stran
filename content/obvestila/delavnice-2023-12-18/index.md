@@ -14,7 +14,9 @@ prijava: "https://1ka.arnes.si/a/28606a92"
 
 
 
-## Kako servisiram kolo?
+## Vzdrževanje in osnovni servis kolesa 
+
+
 ### Ponedeljek, 18.12.2023, ob 15:00
 
 
@@ -24,7 +26,7 @@ prijava: "https://1ka.arnes.si/a/28606a92"
 
 &nbsp;
 
-Na delavnici se bomo naučili osnovnega popravljanja bicikljev.
+Na delavnici bomo spoznali osnovne  komponente kolesa in kako se jih vzdržuje za ustrezno delovanje. Pogledali si bomo tudi osnovni servis menjave ter popravila zračnice ali plašča ter pogonskega in zavornega sklopa.
 
 &nbsp;
 &nbsp;
