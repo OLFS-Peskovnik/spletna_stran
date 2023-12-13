@@ -20,6 +20,10 @@ Razpisna dokumentacija in pravilnik o pogojih za pridobitev sofinanciranja štud
 
 #### [Pravilnik o sofinanciranju](/dokumenti/pravilnik-o-pogojih-za-pridobitev-sofinanciranja-študentski-projektov-v-peskovniku/)
 
+&nbsp;
+
+#### [Pravilnik o nivojih članov v Peskovniku](/dokumenti/nivoji-clanov/)
+
 
 
 &nbsp;
@@ -37,5 +41,34 @@ Projekt lahko prijavite do 14. 1. 2024 na spodnji povezavi:
 Vse prijave oddane do roka se bodo obravnavale enakovredno.
 
 &nbsp;
+
+## Kako postanem pripravnik ali pripravnica?
+
+&nbsp;
+
+
+#### 1. Imam status študenta ali študentke Univerze v Ljubljani.
+
+&nbsp;
+
+
+#### 2. Se udeležim treh osnovnih delavnic:
+##### a. Varna uporaba Peskovnika,
+##### b. Osnove uporabe CO2 laserja,
+##### c. Osnove 3D tiska – FDM.
+##### Osnovne delavnice se izvajajo v 1 in 3 tednu meseca. 
+
+&nbsp;
+
+
+#### 3. Opravljen tečaj varnosti pri delu:
+Pošlješ e-mail na **ales.hocevar@fs.uni-lj.si** in prosiš za vprašalnik za VPD, ga izpolniš pošlješ, nazaj v pregled, in posreduješ potrdilo o opravljenem tečaju VPD na **peskovnik@fs.uni-lj.si**.
+
+&nbsp;
+#### 3. Podpisana članska zaobljuba:
+Oglasi se v Peskovniku in jo podpiši. Alternativno si jo prenesi tukaj: [Članska zaobljuba](/dokumenti/clanska-zaobljuba/), in jo pošlji na naš email: **peskovnik@fs.uni-lj.si**
+
+&nbsp;
+
 
 Glede dodatnih vprašanj glede razpisa nas kontaktirajte na peskovnik@fs.uni-lj.si.
