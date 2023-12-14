@@ -42,7 +42,7 @@ Vse prijave oddane do roka se bodo obravnavale enakovredno.
 
 &nbsp;
 
-## Kako postanem pripravnik ali pripravnica?
+## Kako postanem pripravnik ali pripravnica v 4 korakih?
 
 &nbsp;
 
@@ -61,14 +61,14 @@ Vse prijave oddane do roka se bodo obravnavale enakovredno.
 &nbsp;
 
 
-#### 3. Opravljen tečaj varnosti pri delu:
+#### 3. Opravljvim tečaj varnosti pri delu:
 Pošlješ e-mail na **ales.hocevar@fs.uni-lj.si** in prosiš za vprašalnik za VPD, ga izpolniš pošlješ, nazaj v pregled, in posreduješ potrdilo o opravljenem tečaju VPD na **peskovnik@fs.uni-lj.si**.
 
 &nbsp;
-#### 3. Podpisana članska zaobljuba:
+#### 4. Podpišem člansko zaobljubo:
 Oglasi se v Peskovniku in jo podpiši. Alternativno si jo prenesi tukaj: [Članska zaobljuba](/dokumenti/clanska-zaobljuba/), in jo pošlji na naš email: **peskovnik@fs.uni-lj.si**
 
 &nbsp;
 
 
-Glede dodatnih vprašanj glede razpisa nas kontaktirajte na peskovnik@fs.uni-lj.si.
+Glede dodatnih vprašanj glede razpisa ali članstva v Peskovniku nas kontaktirajte na peskovnik@fs.uni-lj.si.
