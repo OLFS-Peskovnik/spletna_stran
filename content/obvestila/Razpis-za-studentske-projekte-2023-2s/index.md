@@ -61,7 +61,7 @@ Vse prijave oddane do roka se bodo obravnavale enakovredno.
 &nbsp;
 
 
-#### 3. Opravljvim tečaj varnosti pri delu:
+#### 3. Opravim tečaj varnosti pri delu:
 Pošlješ e-mail na **ales.hocevar@fs.uni-lj.si** in prosiš za vprašalnik za VPD, ga izpolniš pošlješ, nazaj v pregled, in posreduješ potrdilo o opravljenem tečaju VPD na **peskovnik@fs.uni-lj.si**.
 
 &nbsp;
