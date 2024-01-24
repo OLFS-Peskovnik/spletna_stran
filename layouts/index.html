@@ -46,7 +46,7 @@
     </div>
     <!-- <img class="gallery" src="/site-images/wallpapers/olfs-prostor5.jpg" alt=""> -->
     <img class="overlays" src="/site-images/logos/logo-overlay.svg" alt="">
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSew6TxBKQ5qjqp8A6A45_p9B-yLUqtnxf8B5OBVf6H6qXi5Iw/viewform" class="button">PRIJAVA NA NOVICE</a>
+    <a href="https://5915.squalomail.net/index.php?option=com_subscribe_form&view=embed&id=15" class="button">PRIJAVA NA NOVICE</a>
     {{ range ( first 10 ( where .Site.RegularPages "Type" "obvestila" ).ByDate.Reverse ) }}
         {{ if isset .Page.Params "prijava" }}
             <a class="prijava-delavnice" href="{{ .Page.Params.Prijava }}">Prijava na delavnice</a>
