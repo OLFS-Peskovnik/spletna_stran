@@ -1,6 +1,6 @@
 ---
 title: "Delavnice v tednu 19.2. - 23.2.2024"
-date: 2024-2-14T8:30:00+02:00
+date: 2024-02-14T8:30:00+02:00
 description: ""
 prijava: "https://1ka.arnes.si/a/e11b27fe"
 ---
