@@ -30,6 +30,10 @@ Delavnica bo potekala v dveh oz. po potrebi (in glede na interes in udeležbo) t
 
 &nbsp;
 
+**Opomba:** S seboj prinesite lasten prenosni računalnik.
+
+&nbsp;
+
 &nbsp;
 
 &nbsp;
@@ -50,7 +54,7 @@ Del delavnice bo posvečen tudi odgovarjanju na vprašanja udeležencev in pomo�
  
 &nbsp;
 
-**Opomba:** Zaželena udeležba na delavnici *Osnove stružnice - 101*
+**Opomba:** Obvezna udeležba na delavnici *Osnove stružnice - 101*
 
 &nbsp;
 
