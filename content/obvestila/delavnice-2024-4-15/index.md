@@ -1,6 +1,6 @@
 ---
 title: "Delavnice v tednu 15. 4. - 19. 4. 2024"
-date: 2024-04-05T8:30:00+02:00
+date: 2024-04-012T13:30:00+02:00
 description: ""
 prijava: "https://1ka.arnes.si/a/6da3b7ff"
 ---
