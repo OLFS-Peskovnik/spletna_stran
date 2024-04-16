@@ -17,10 +17,6 @@ Razpisna dokumentacija, pravilnik o pogojih za pridobitev sofinanciranja in prav
 
 &nbsp;
 
-#### [Pravilnik o sofinanciranju](/dokumenti/pravilnik-o-pogojih-za-pridobitev-sofinanciranja-študentski-projektov-v-peskovniku/)
-
-&nbsp;
-
 #### [Pravilnik o nivojih članov v Peskovniku](/dokumenti/nivoji-clanov/)
 
 
