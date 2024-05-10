@@ -2,10 +2,10 @@
 title: "Delavnice v tednu 22. 4. - 26. 4. 2024"
 date: 2024-04-19T10:00:00+02:00
 description: ""
-prijava: "https://1ka.arnes.si/a/699fe422"
+prijava: "https://1ka.arnes.si/a/05426eea"
 ---
 
-# PRIJAVE SO NA POVEZAVI: https://1ka.arnes.si/a/699fe422
+# PRIJAVE SO NA POVEZAVI: https://1ka.arnes.si/a/05426eea
 
 &nbsp;
 
@@ -148,5 +148,5 @@ Delavnica varne uporabe Peskovnika zajema osnovna načela varnosti pri delu z or
 &nbsp;
 
 
-# PRIJAVE SO NA POVEZAVI: https://1ka.arnes.si/a/699fe422
+# PRIJAVE SO NA POVEZAVI: https://1ka.arnes.si/a/05426eea
 
