@@ -96,7 +96,7 @@ Podrobno si bomo ogledali tudi program PrusaSlicer in različne nastavitve, ki j
 &nbsp;
 
 
-*Spodbuja se, da imajo udeleženci s seboj svoj računalnik z nameščenim programom PrusaSlicer.*
+*Spodbuja se, da imajo udeleženci s seboj svoj računalnik z nameščenim programom PrusaSlicer*
 
 &nbsp;
 
