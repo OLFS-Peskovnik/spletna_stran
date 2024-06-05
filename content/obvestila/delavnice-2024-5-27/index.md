@@ -49,7 +49,7 @@ Na delavnici si bomo pogledali različne izvedbe kolesarskih verižnikov, ter za
 
 &nbsp;
 
-**Dodatni pogoj:** Na delavnico pridite z lastnim računalnikom in nameščenim programom Adobe Illustrator.
+**Dodatni pogoj:** Na delavnico pridite z lastnim računalnikom in nameščenim programom Adobe Illustrator. 
 
 &nbsp;
 
