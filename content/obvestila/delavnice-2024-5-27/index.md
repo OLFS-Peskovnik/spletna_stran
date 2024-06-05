@@ -91,7 +91,7 @@ Na delavnici se bomo spoznali z osnovami FDM oz. FFF 3D tiskalnikov. Pogledali s
 
 &nbsp;
 
-Podrobno si bomo ogledali  tudi program PrusaSlicer in različne nastavitve, ki jih ponuja in različne spletne strani z brezplačnimi modeli.
+Podrobno si bomo ogledali  tudi program PrusaSlicer in različne nastavitve, ki jih ponuja in različne spletne strani z brezplačnimi modeli. 
 
 &nbsp;
 
