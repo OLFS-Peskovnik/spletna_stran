@@ -44,7 +44,7 @@ Naučili se bomo uporabljati tudi programsko opremo LycheeSlicer za pripravo 3D 
 &nbsp;
 
 
-Na delavnici si bomo pogledali različne izvedbe kolesarskih verižnikov, ter zamenjavo ter nastavljanje polomljenih ali zvitih naper (špic) na zadnjem kolesu.
+Na delavnici si bomo pogledali različne izvedbe kolesarskih verižnikov, ter zamenjavo ter nastavljanje polomljenih ali zvitih naper (špic) na zadnjem kolesu. 
 
 
 &nbsp;
