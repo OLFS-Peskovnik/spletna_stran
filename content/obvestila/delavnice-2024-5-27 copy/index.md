@@ -22,6 +22,7 @@ Za prejemanje informacij o aktualnem dogajanju in rednih utrinkov se lahko prija
 
 &nbsp;
 
-Vsem našim članom, udeležencem delavnic in drugim študentom in obiskovalcem želimo uspešno izpitno obdobje in prijetno poletje.
+Vsem našim članom, udeležencem delavnic in drugim študentom in obiskovalcem želimo uspešno izpitno obdobje in prijetno poletje!
+
 
 
