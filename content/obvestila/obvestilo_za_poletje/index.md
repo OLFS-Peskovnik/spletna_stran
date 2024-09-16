@@ -14,7 +14,7 @@ Tekom poletja bo Peskovnik načeloma odprt med 10.00-16.00, vseeno pa aktualne i
 
 &nbsp;
 
-Vsak četrtek bodo tudi poleti ob 14.00 v Peskovniku potekali tedenski sestanki, kjer se debatira o aktualnih temah.
+Tedenski sestanki med poletjem ne bodo potekali.
 
 &nbsp;
 
