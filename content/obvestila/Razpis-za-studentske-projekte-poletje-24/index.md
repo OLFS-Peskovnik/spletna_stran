@@ -4,33 +4,29 @@ date: 2024-04-15T08:00:00+02:00
 description: "Javni razpis za izvedbo študentskih projektov v Peskovniku – odprtem laboratoriju Univerze v Ljubljani Fakultete za strojništvo"
 ---
 
- 
-Z današnjim dnem je odprt razpis za izvedbo študentskih projektov v Peskovniku – odprtem laboratoriju Univerze v Ljubljani Fakultete za strojništvo v letnem semestru. 
+&nbsp;
 
 &nbsp;
 
-Razpisna dokumentacija, pravilnik o pogojih za pridobitev sofinanciranja in pravilnik o nivojih članov v Peskovniku so dostopni na:
+&nbsp;
 
 &nbsp;
 
-#### [Razpisna dokumentacija](/dokumenti/razpis-za-studentske-projekte-poletje-2024/)
+# Poletni projekti so se že izvedli, odprt pa je razpis za študentske projekte v zimskem semestru študijskega leta 2024/2025, ki se nahaja na [povezavi](/obvestila/razpis-za-studentske-projekte-2024-1s/).
 
 &nbsp;
 
-#### [Pravilnik o nivojih članov v Peskovniku](/dokumenti/nivoji-clanov/)
-
+&nbsp;
 
 &nbsp;
 
-Projekt lahko prijavite do 13. 5. 2024 na povezavi **[PRIJAVA PROJEKTA](https://1ka.arnes.si/poletniprojekti2024)**
+&nbsp;
 
 &nbsp;
 
-Vse popolne prijave oddane do roka se bodo obravnavale enakovredno.
-
 &nbsp;
 
-# Pogosta vprašanja glede članstva in študentskih projektov v Peskovniku:
+### Pogosta vprašanja glede članstva in študentskih projektov v Peskovniku:
 
 &nbsp;
 
