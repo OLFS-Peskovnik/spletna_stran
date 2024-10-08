@@ -88,7 +88,7 @@ Na delavnici se bomo naučili, kako se varno uporablja CO2 laser, nastavlja njeg
 
 ## Osnove dela s prepreg kompozitom
 
-### Torek ob 14.00
+### Sreda ob 14.00
 
 
 
