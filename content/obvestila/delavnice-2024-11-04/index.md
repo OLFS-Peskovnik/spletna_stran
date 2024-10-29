@@ -1,6 +1,6 @@
 ---
 title: "Delavnice v tednu 4. 11. - 8. 11. 2024"
-date: 2024-10-17T15:00:00+02:00
+date: 2024-10-29T15:00:00+02:00
 description: ""
 prijava: "https://1ka.arnes.si/a/956bebb0"
 ---
