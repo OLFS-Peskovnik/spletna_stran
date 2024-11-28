@@ -31,3 +31,12 @@ Vizija Peskovnika je, da vsak inženir strojništva postane izvrsten inženir, t
 - Osnove LaTex-a,
 - Osnove Python-a,
 - Osnove SQL-a,
+
+### Kako se pridružim?
+Vsak četrtek ob 14:00 v Peskovniku poteka redni sestanek, katerega se lahko udeležijo tudi vsi zainteresirani. Peskovnik se nahaja na Aškarčevi cesti 6 (vhod s parkirišča)
+
+### Kdaj se lahko udeležim delavnic?
+Udeležiš se lahko brezplačnih delavnic vsak delovni dan med semestrom (glej urnik za tekoči teden).
+
+### Kje lahko dobim urnik delavnic?
+Urnik delavnic je objavljen v glasilu, na družbenihg omrežjih UL FS in na spletni strani Peskovnika (začetna stran)

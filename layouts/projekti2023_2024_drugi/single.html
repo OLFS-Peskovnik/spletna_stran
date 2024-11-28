@@ -1,0 +1,33 @@
+{{ define "main" }}
+
+<div class="sigle-container">
+  <h1 class="title">{{ .Title }}</h1>
+  <div class="image-container">
+    {{ $img := (.Resources.ByType "image").GetMatch "*featured*" }}
+    {{with $img }}
+      <img src="{{ .Permalink }}" alt="" />
+    {{ end }}
+    {{ $img := (.Resources.ByType "image").GetMatch "*featured1*" }}
+    {{with $img }}
+      <img src="{{ .Permalink }}" alt="" />
+    {{ end }}
+    {{ $img := (.Resources.ByType "image").GetMatch "*featured2*" }}
+    {{with $img }}
+      <img src="{{ .Permalink }}" alt="" />
+    {{ end }}
+    {{ $img := (.Resources.ByType "image").GetMatch "*featured3*" }}
+    {{with $img }}
+      <img src="{{ .Permalink }}" alt="" />
+    {{ end }}
+  </div>
+  <div>
+    <p class="description">
+      {{.Page.Description }}
+    </p>
+  </div>
+  
+  <div class="single-content-container">
+    {{ .Content }}
+  </div>
+</div>
+{{ end }}

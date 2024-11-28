@@ -1,8 +1,13 @@
 {{ define "main" }}
+<div class="background-watermark-container">
 <div class="obvestila-container">
     <h1>Študentski projekti:</h1>
-    {{ range .Paginator.Pages }}
-        {{ partial "obvestila-card.html" . }}
-    {{ end }}
+    <a href="/projekti2023_2024_poletni/"><h5 style="color:black">Poletni hitri projekti študijskega leta 2023/2024</h5>
+    <a href="/projekti2023_2024_drugi/"><h5 style="color:black">Drugi semester študijskega leta 2023/2024</h5>
+    <a href="/projekti2023_2024_prvi/"><h5 style="color:black">Prvi semester študijskega leta 2023/2024</h5>
+    <a href="/projekti2022_2023_drugi/"><h5 style="color:black">Drugi semester študijskega leta 2022/2023</h5>
+    <a href="/projekti2022_2023_prvi/"><h5 style="color:black">Prvi semester študijskega leta 2022/2023</h5>
+    <a href="/projekti_studentske_ekipe/"><h5 style="color:black">Študentske ekipe</h5>
+</div>
 </div>
 {{ end }}
