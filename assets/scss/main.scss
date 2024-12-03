@@ -19,7 +19,6 @@ html {
 .olfs-dark-gray-text {
   color: $olfs-dark-gray;
 }
-
 nav {
   display: flex;
   flex-direction: row;
@@ -28,7 +27,7 @@ nav {
   // border: solid red 1px;
 
   img {
-    height: 5rem;
+    height: 8rem;
     margin-left: 1rem;
     // border: solid black 1px;
   }
@@ -553,7 +552,8 @@ nav {
   .image-container {
     img {
       // border: solid red 1px;
-      max-height: 30rem;
+      max-height: 25rem;
+      max-width: 40rem;
     }
   }
   table {
@@ -615,10 +615,12 @@ footer {
       h2 {
         font-weight: 400;
         font-size: 1.5rem;
+        color: white;
       }
       h3 {
         font-weight: 400;
         font-size: 1.5rem;
+        color: white;
         a {
           color: white;
           font-weight: 400;

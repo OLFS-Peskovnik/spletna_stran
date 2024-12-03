@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+<div class="sigle-container">
+  <h1 class="title">{{ .Title }}</h1>
+  <div>
+    <p class="description">
+      {{.Page.Description }}
+    </p>
+  </div>
+  <div class="single-content-container">
+    {{ .Content }}
+  </div>
+  <div class="image-container">
+    {{ range .Resources.ByType "image" }}
+      {{ if or (strings.Contains .Name "featured") (strings.Contains .Name "Featured")}}
+        <img src="{{ .Permalink }}" alt="" />
+      {{ end }}
+    {{ end }}
+  </div>
+</div>
+{{ end }}

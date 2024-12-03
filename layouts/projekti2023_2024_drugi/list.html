@@ -1,0 +1,11 @@
+{{ define "main" }}
+<div class="background-watermark-container">
+    <div class="obvestila-container">
+        <h1>Študentski projekti v drugem semestru 2023/2024</h1>
+        {{ range .Paginator.Pages }}
+            {{ partial "obvestila-card.html" . }}
+        {{ end }}
+    </div>
+</div>
+
+{{ end }}

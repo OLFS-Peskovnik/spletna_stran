@@ -24,5 +24,3 @@ V Peskovniku za pripravo datotek za izrez in graviranje uporabljamo program RDWo
 Za uporabo stroja v Peskovniku je potrebno narediti usposabljanje "Osnove CO2 laserja", ki poteka v vnaprej napovedanih terminih, dostopnih na spletni strani Peskovnika.
 
 &nbsp;
-
-#### Datum prevzema stroja: 10.2.2023
