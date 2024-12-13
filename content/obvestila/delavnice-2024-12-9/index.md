@@ -25,7 +25,7 @@ Na drugem delu delavnice rezkar za začetnike se bomo na praktičnem kosu učili
 
 &nbsp;
 
-**Opomba:** Obvezna je predhodna udeležba na 1. delu delavnice.
+**Opomba:**Obvezna je predhodna udeležba na 1. delu delavnice.
 
 &nbsp;
 
