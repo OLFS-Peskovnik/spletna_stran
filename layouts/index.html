@@ -49,7 +49,7 @@
     <a href="https://5915.squalomail.net/index.php?option=com_subscribe_form&view=embed&id=15" class="button">PRIJAVA NA NOVICE</a>
     {{ range ( first 10 ( where .Site.RegularPages "Type" "obvestila" ).ByDate.Reverse ) }}
         {{ if isset .Page.Params "prijava" }}
-            <a class="prijava-delavnice" href="{{ .Page.Params.Prijava }}">Prijava na delavnice</a>
+            <a class="prijava-delavnice" href="{{ .Page.Params.Prijava }}">Prijavi svoj projekt</a>
             {{ break }}
         {{ end }}
     {{end}}

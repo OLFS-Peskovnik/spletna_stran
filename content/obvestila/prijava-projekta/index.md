@@ -2,6 +2,7 @@
 title: "Razpis za izvedbo študentskih projektov v Peskovniku v letnem semestru š.l. 2024/2025"
 date: 2025-01-20T09:00:00+02:00
 description: "Javni razpis za izvedbo študentskih projektov v Peskovniku – odprtem laboratoriju Univerze v Ljubljani Fakultete za strojništvo"
+prijava: "obvestila/prijava-projekta/"
 ---
 
 Z današnjim dnem je odprt razpis za izvedbo študentskih projektov v Peskovniku – odprtem laboratoriju Univerze v Ljubljani Fakultete za strojništvo v letnem semestru. 
