@@ -77,7 +77,7 @@ Na delavnici se bomo spoznali z osnovami uporabe programa; skozi praktično delo
 
 &nbsp;
 
-## Družabni dogodek, predstavitev projektov v Peskovniku in sprejem Dewesoft opreme
+## Družabni dogodek
 
 ### Četrtek ob 14.00
 
