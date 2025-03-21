@@ -26,7 +26,7 @@ Priprava CAM bo potekala v programu Fusion 360 zaradi dostopnosti, preprostosti 
 
 &nbsp;
 
-Delavnica bo potekala v več delih. V drugem delu delavnice bomo spoznali delo na dejanskem stroju in 3D CAM odrezovalne operacije v Fusion360, v tretjem pa naprednejše procese obdelave (3D rezkanje namesto 2D).   
+Delavnica bo potekala v več delih. Na prvem delu bomo spoznali upravljanje s strojem (menjava orodij, delo z Mach3 konzolo in vmesnikom, proces zagona in ugašanja). V drugem delu delavnice bomo spoznali delo na dejanskem stroju in 3D CAM odrezovalne operacije v Fusion360, v tretjem pa naprednejše procese obdelave (3D rezkanje namesto 2D).   
 
 &nbsp;
 
