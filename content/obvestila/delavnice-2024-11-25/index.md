@@ -89,6 +89,11 @@ Sveže znanje bomo v živo preizkusili na Arduino mikrokrmilnikih, kjer bomo pov
 
 &nbsp;
 
+Na prihodnjih delavnicah bomo spoznali še delo s knjižnicami in moduli za izdelavo kompleksnejših elektrotehniških vgradnih vezij.
+
+&nbsp;
+
+
 ---
 
 &nbsp;
