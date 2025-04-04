@@ -13,6 +13,23 @@ prijava: "https://1ka.arnes.si/aktualnedelavnice"
 
 ---
 
+## Osnove konvencionalnega rezkarja (2. del)
+
+### Torek ob 13.00
+
+&nbsp;
+
+Na drugem delu delavnice rezkar za začetnike se bomo na praktičnem kosu učili tehnike načrtovanja zaporedja operacij, uporabe mikrometrov, "edge finderja" ter  uporabe DRO-ja.
+
+&nbsp;
+
+**Opomba:**Obvezna je predhodna udeležba na 1. delu delavnice.
+
+&nbsp;
+
+
+---
+
 &nbsp;
 
 ## Osnove struženja kovinskih materialov - 1. del
