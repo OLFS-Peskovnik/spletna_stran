@@ -1,6 +1,6 @@
 ---
 title: "Razpis za izvedbo študentskih projektov v Peskovniku v letnem semestru š.l. 2024/2025"
-date: 2025-01-20T09:00:00+02:00
+date: 2025-05-15T08:00:00+02:00
 description: "Javni razpis za izvedbo študentskih projektov v Peskovniku – odprtem laboratoriju Univerze v Ljubljani Fakultete za strojništvo"
 prijava: "obvestila/prijava-projekta/"
 ---
@@ -19,7 +19,7 @@ Razpisna dokumentacija, pravilnik o pogojih za pridobitev sofinanciranja in prav
 
 &nbsp;
 
-_Rok za oddajo popolne prijave je 13. 2. 2025 do 23.59. Vse popolne prijave oddane do roka se bodo obravnavale enakovredno._
+_Rok za oddajo popolne prijave je 5. 6. 2025 do 23.59. Vse popolne prijave oddane do roka se bodo obravnavale enakovredno._
 
 
 ### _Da bo tvoj projekt lahko karseda uspešen ti predlagamo, da imaš že ob prijavi projekta jasno zastavljeno, kaj želiš ustvariti, kako in kdaj se boš tega lotil, kaj od materialov, orodij in strojev potrebuješ in ali imaš dovolj časa za realizacijo zastavljenih ciljev._
