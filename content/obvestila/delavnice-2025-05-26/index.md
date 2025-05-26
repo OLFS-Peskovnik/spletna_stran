@@ -15,7 +15,7 @@ prijava: "https://1ka.arnes.si/aktualnedelavnice"
 
 ## CAM Fusion360 in CNC obdelava - 1. del
 
-### Četrtek ob 14.30
+### Ponedeljek ob 14.00
 
 &nbsp;
 
@@ -41,7 +41,7 @@ Delavnica bo potekala v več delih. V drugem delu delavnice bomo spoznali delo n
 
 ## Osnove struženja kovinskih materialov - 1. del
 
-### Torek ob 14.00
+### Četrtek ob 14.30
 
 &nbsp;
 
