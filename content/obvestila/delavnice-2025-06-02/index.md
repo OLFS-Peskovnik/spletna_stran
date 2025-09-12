@@ -51,9 +51,6 @@ Delavnica varne uporabe Peskovnika zajema osnovna načela varnosti pri delu z or
 
 Na delavnici se bomo spoznali z osnovami FDM oz. FFF 3D tiskalnikov. Pogledali si bomo različne vrste 3D tiska, načinov premikanja in podajanja filamentov. Spoznali bomo tudi različne vrste filamentov, šob in podlag za tiskanje.
 
-&nbsp;
-
-Podrobneje si bomo ogledali  tudi program PrusaSlicer in različne nastavitve, ki jih ponuja in različne spletne strani z brezplačnimi modeli. 
 
 &nbsp;
 
