@@ -1,6 +1,6 @@
 ---
 title: "Delavnice v tednu 6. 10. - 10. 10. 2025"
-date: 2025-10-01T09:30:00+02:00
+date: 2025-10-03T22:30:00+02:00
 description: ""
 prijava: "https://1ka.arnes.si/aktualnedelavnice"
 ---
@@ -13,7 +13,7 @@ prijava: "https://1ka.arnes.si/aktualnedelavnice"
 
 &nbsp;
 
-# bajoajo
+
 
 ## Trojček osnovnih delavnic za uporabo Peskovnika
 
