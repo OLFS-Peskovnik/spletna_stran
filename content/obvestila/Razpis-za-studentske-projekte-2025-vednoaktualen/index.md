@@ -5,7 +5,7 @@ description: "Javni razpis za izvedbo študentskih projektov v Peskovniku – od
 prijava: "obvestila/prijava-projekta/"
 ---
 
-Z današnjim dnem je odprt razpis za izvedbo študentskih projektov v Peskovniku – odprtem laboratoriju Univerze v Ljubljani Fakultete za strojništvo v zimskem semestru. 
+Z današnjim dnem je odprt razpis za izvedbo študentskih projektov v Peskovniku – Odprtem laboratoriju Univerze v Ljubljani Fakultete za strojništvo v zimskem semestru. 
 
 Razpisna dokumentacija, pravilnik o pogojih za pridobitev sofinanciranja in pravilnik o nivojih članov v Peskovniku so dostopni na naslednjih povezavah:
 
