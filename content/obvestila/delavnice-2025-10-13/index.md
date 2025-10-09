@@ -2,7 +2,7 @@
 title: "Delavnice v tednu 13. 10. - 17. 10. 2025"
 date: 2025-10-09T12:30:00+02:00
 description: ""
-prijava: "https://1ka.arnes.si/aktualnedelavnice"
+prijava: "https://1ka.arnes.si/a/896d6a6c"
 ---
 
 # [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/aktualnedelavnice)
@@ -33,6 +33,8 @@ Razložili bomo tudi uporabo knjižnic Beautifulsoup (HTML), Pyside/Tkinter(GUI)
 
 
 ---
+
+
 
 
 &nbsp;
