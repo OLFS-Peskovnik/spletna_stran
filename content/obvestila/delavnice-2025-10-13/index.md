@@ -1,6 +1,6 @@
 ---
 title: "Delavnice v tednu 13. 10. - 17. 10. 2025"
-date: 2025-10-09T16:30:00+02:00
+date: 2025-10-09T12:30:00+02:00
 description: ""
 prijava: "https://1ka.arnes.si/aktualnedelavnice"
 ---
