@@ -108,21 +108,17 @@ Delavnica bo potekala v več delih. V drugem delu delavnice bomo spoznali delo n
 
 ---
 
+## Osnove dela s kompoziti (wet layup) - 1. del
 
-
-&nbsp;
-
-## Osnove dela s kompoziti (tehnika *forged carbon*) - 1. del 
-
-### Četrtek ob 16:00
+### Četrtek ob 16.00
 
 &nbsp;
 
-Na delavnici spoznamo tehniko izdelovanja karbonskih izdelkov **forged carbon**. Začeli bomo s krajšim predavanjem o procesu izdelave, nato bomo s pridobljenim znanjem izdelali in obdelali izdelke. 
+Na delavnici bomo spoznali osnove kompozitnih struktur. Osredotočili se bomo na izdelave izdelkov z metodo wet-layup iz raznih vrst vlaken (ogljikova, steklena, aramid) in epoksidne smole. 
 
 &nbsp;
 
-**Opomba:** Zaradi samega časa, potrebnega za polimerizacijo epoksidne smole, bo delavnica potekala v dveh delih (2 ločena termina), ki bosta predvidoma potekala v dveh zaporednih tednih.
+**Opomba:** Zaradi samega časa, potrebnega za polimerizacijo epoksidne smole, bo delavnica potekala v dveh delih.
 
 &nbsp;
 
