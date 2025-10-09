@@ -35,6 +35,8 @@ Razložili bomo tudi uporabo knjižnic Beautifulsoup (HTML), Pyside/Tkinter(GUI)
 ---
 
 
+&nbsp;
+
 ## Trojček osnovnih delavnic za uporabo Peskovnika
 
 ### Torek med 14.00 in 17.00
