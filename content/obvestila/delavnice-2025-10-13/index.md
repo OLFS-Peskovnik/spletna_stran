@@ -5,7 +5,7 @@ description: ""
 prijava: "https://1ka.arnes.si/a/896d6a6c"
 ---
 
-# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/aktualnedelavnice)
+# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/a/896d6a6c)
 
 &nbsp;
 
@@ -168,7 +168,7 @@ Na prihodnjih delavnicah bomo spoznali še delo s knjižnicami in moduli za izde
 
 
 
-# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/aktualnedelavnice)
+# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/a/896d6a6c)
 
 &nbsp;
 
