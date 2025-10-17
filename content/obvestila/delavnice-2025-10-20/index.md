@@ -2,10 +2,10 @@
 title: "Delavnice v tednu 20. 10. - 24. 10. 2025"
 date: 2025-10-16T12:30:00+02:00
 description: ""
-prijava: "https://1ka.arnes.si/aktualnedelavnice"
+prijava: "https://1ka.arnes.si/a/adf41042"
 ---
 
-# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/aktualnedelavnice)
+# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/a/adf41042)
 
 &nbsp;
 
@@ -145,7 +145,7 @@ Delavnica bo potekala v več delih. V drugem delu delavnice bomo spoznali delo n
 
 
 
-# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/aktualnedelavnice)
+# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/a/adf41042)
 
 &nbsp;
 
