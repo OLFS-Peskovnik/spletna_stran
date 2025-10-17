@@ -92,6 +92,8 @@ Na delavnici se bomo naučili, kako se varno uporablja CO2 laser, nastavlja njeg
 ### Sreda ob 14:00
 
 &nbsp;
+
+
 Na delavnici bomo spoznali omejtive in slabosti FDM 3D tiska. Pogledali si bomo metode pri snovanju 3D modelov s katerim lahko optimiziramo proces tiskanja in izdelamo bolj kvalitetne kose. Na koncu si bomo naučeno pogledali še na praktičnih primerih. Udeleženci lahko po želji tudi prinesejo svoje 3D modele na katerih bomo pogledali možne izboljšave
 
 
