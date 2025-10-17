@@ -105,7 +105,6 @@ Na delavnici bomo spoznali omejtive in slabosti FDM 3D tiska. Pogledali si bomo 
 
 &nbsp;
 
-&nbsp;
 
 ## Osnove dela s kompoziti (tehnika *wet layup*) - 2. del 
 
@@ -123,7 +122,7 @@ Na delavnici bomo razkalupili izdelke izdelane na 1. delu delavnice ter jih post
 
 ## CAM Fusion360 in CNC obdelava - 1. del
 
-### Ponedeljek ob 15:00
+### Petek ob 15:00
 
 &nbsp;
 
