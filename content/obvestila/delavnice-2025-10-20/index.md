@@ -78,6 +78,7 @@ Delavnica varne uporabe Peskovnika zajema osnovna načela varnosti pri delu z or
 
 Na delavnici se bomo naučili, kako se varno uporablja CO2 laser, nastavlja njegove nastavitve in pripravlja grafike zanj v programu RDWorks oz. Lightburn. 
 
+&nbsp;
 
 
 ---
@@ -117,6 +118,8 @@ Na delavnici bomo razkalupili izdelke izdelane na 1. delu delavnice ter jih post
 &nbsp;
 
 ---
+
+&nbsp;
 
 ## CAM Fusion360 in CNC obdelava - 1. del
 
