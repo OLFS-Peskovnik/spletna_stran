@@ -2,10 +2,10 @@
 title: "Delavnice v tednu 27. 10. - 30. 10. 2025"
 date: 2025-10-23T12:30:00+02:00
 description: ""
-prijava: "https://1ka.arnes.si/aktualnedelavnice"
+prijava: "https://1ka.arnes.si/a/11cc5163"
 ---
 
-# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/aktualnedelavnice)
+# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/a/11cc5163)
 
 &nbsp;
 
@@ -124,7 +124,7 @@ Ogledali si bomo vse dele stroja in orodja ter vpenjala, in izdelali enostaven i
 
 
 
-# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/aktualnedelavnice)
+# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/a/11cc5163)
 
 &nbsp;
 
