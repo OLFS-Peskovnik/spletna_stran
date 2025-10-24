@@ -85,7 +85,7 @@ Na delavnici spoznamo tehniko izdelovanja karbonskih izdelkov – forged carbon.
 
 ## Stružnica za začetnike - 1. del
 
-### Sreda ob 15.30
+### Sreda ob 14.00
 
 &nbsp;
 
