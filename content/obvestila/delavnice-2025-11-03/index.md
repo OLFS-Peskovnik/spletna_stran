@@ -52,6 +52,7 @@ Na delavnici spoznamo tehniko izdelovanja karbonskih izdelkov – forged carbon.
 
 ---
 
+&nbsp;
 
 ## Osnove dela s kompoziti (wet layup) - 1. del
 
@@ -70,6 +71,7 @@ Na delavnici bomo spoznali osnove kompozitnih struktur. Osredotočili se bomo na
 
 ---
 
+&nbsp;
 
 ## Arduino za začetnike - 2. del (Osnove modulov in senzorjev)
 
