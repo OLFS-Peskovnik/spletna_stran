@@ -2,10 +2,10 @@
 title: "Delavnice v tednu 3. 11. - 7. 11. 2025"
 date: 2025-10-29T10:30:00+02:00
 description: ""
-prijava: "https://1ka.arnes.si/aktualnedelavnice"
+prijava: "https://1ka.arnes.si/a/b7b6de7e"
 ---
 
-# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/aktualnedelavnice)
+# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/a/b7b6de7e)
 
 &nbsp;
 
@@ -93,7 +93,7 @@ Na delavnici bomo nadgradili znanja dela z Arduino razvojnimi ploščami iz pret
 
 
 
-# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/aktualnedelavnice)
+# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/a/b7b6de7e)
 
 &nbsp;
 
