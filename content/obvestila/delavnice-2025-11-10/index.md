@@ -1,6 +1,6 @@
 ---
 title: "Delavnice v tednu 10. 11. - 14. 11. 2025"
-date: 2025-10-06T18:30:00+02:00
+date: 2025-11-06T18:30:00+02:00
 description: ""
 prijava: "https://1ka.arnes.si/a/adf41042"
 ---
