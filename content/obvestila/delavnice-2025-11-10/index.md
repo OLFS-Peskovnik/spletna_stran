@@ -101,13 +101,9 @@ Vsak udeleženec bo imel priložnost pridobiti znanje dela s spajkalnikom, ki je
 
 &nbsp;
 
-&nbsp;
-
 
 ---
 
-
-&nbsp;
 
 &nbsp;
 
