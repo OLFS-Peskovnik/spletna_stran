@@ -48,6 +48,8 @@ Na delavnici bomo razkalupili predhodno laminirane izdelke in jih obdelali do ko
 
 ---
 
+&nbsp;
+
 ## CAM Fusion360 in CNC obdelava - 2. del
 ### Sreda ob 14:00
 
@@ -69,6 +71,8 @@ Delavnica bo potekala v več delih. Na prvem delu bomo spoznali upravljanje s st
 &nbsp;
 
 ---
+
+&nbsp;
 
 ## Trojček osnovnih delavnic za uporabo Peskovnika
 
