@@ -2,10 +2,10 @@
 title: "Delavnice v tednu 17. 11. - 21. 11. 2025"
 date: 2025-11-13T16:30:00+02:00
 description: ""
-prijava: "https://1ka.arnes.si/aktualnedelavnice"
+prijava: "https://1ka.arnes.si/a/c8ab1030"
 ---
 
-# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/aktualnedelavnice)
+# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/a/c8ab1030)
 
 &nbsp;
 
@@ -142,7 +142,7 @@ Delavnica je namenjena tako začetnikom kot tudi tistim z že nekaj izkušnjami,
 
 
 
-# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/aktualnedelavnice)
+# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/a/c8ab1030)
 
 &nbsp;
 
