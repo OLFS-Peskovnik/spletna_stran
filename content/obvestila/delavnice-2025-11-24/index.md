@@ -98,14 +98,13 @@ Na delavnici se bomo spoznali z delovanjem programa Adobe Lightroom, katerega se
 S funkcijami, ki jih omogoča program in ki jih bomo na delavnici spoznali je fotografije možno obdelati tako, da so barvno bolj ustrezne in zgledajo lepše. 
 
 
-*Zaželeno je, da imajo udeleženci s seboj svoj računalnik z nameščenim programom Adobe Lightroom*
-
 
 
 &nbsp;
 
 
 ---
+
 
 &nbsp;
 
