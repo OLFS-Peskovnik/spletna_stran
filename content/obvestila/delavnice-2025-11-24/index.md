@@ -2,10 +2,10 @@
 title: "Delavnice v tednu 24. 11. - 28. 11. 2025"
 date: 2025-11-20T12:30:00+02:00
 description: ""
-prijava: "https://1ka.arnes.si/aktualnedelavnice"
+prijava: "https://1ka.arnes.si/a/9d71dc78"
 ---
 
-# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/aktualnedelavnice)
+# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/a/9d71dc78)
 
 &nbsp;
 
@@ -138,7 +138,7 @@ Delavnica bo potekala v več delih. Na prvem delu bomo spoznali upravljanje s st
 
 
 
-# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/aktualnedelavnice)
+# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/a/9d71dc78)
 
 &nbsp;
 
