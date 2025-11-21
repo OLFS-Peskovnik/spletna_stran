@@ -86,18 +86,15 @@ Modelarsko poznavanje elektronike je osnova za gradnjo in krmilne sisteme brezpi
 
 &nbsp;
 
-## Adobe Lightroom
+## Photoshop 101
 
 ### Sreda, ob 15:00
 
 
 &nbsp;
 
-Na delavnici se bomo spoznali z delovanjem programa Adobe Lightroom, katerega se uporablja za naknadno obdelavo digitalnih fotografij (ang. *post-processing*). 
 
-S funkcijami, ki jih omogoča program in ki jih bomo na delavnici spoznali je fotografije možno obdelati tako, da so barvno bolj ustrezne in zgledajo lepše. 
-
-
+Delavnica Photoshop 101 je zasnovana za začetnike, ki želijo spoznati osnove programa Adobe Photoshop. Udeleženci se bodo naučili osnovnih funkcij in orodij, kot so delo s plastmi, izbira orodij in osnovna obdelava slik. Poleg tega bodo skozi praktično delo ustvarili tri manjše projekte: foto kolaž, osnovno retuširanje fotografije in kreativno naslovnico.
 
 
 &nbsp;
