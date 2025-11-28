@@ -29,9 +29,11 @@ Na delavnici bomo spoznali omejtive in slabosti FDM 3D tiska. Pogledali si bomo 
 
 &nbsp;
 
+&nbsp;
 
 ---
 
+&nbsp;
 
 &nbsp;
 
@@ -78,13 +80,15 @@ Delavnica varne uporabe Peskovnika zajema osnovna načela varnosti pri delu z or
 
 &nbsp;
 
+&nbsp;
 
 ---
 
+&nbsp;
 
 &nbsp;
 
-## ## Osnove 3D tiska - Resin
+## Osnove 3D tiska - Resin
 
 ### Sreda ob 14:00
 
@@ -98,9 +102,11 @@ Podrobno si bomo ogledali program za pripravo datotek in različne nastavitve, k
 
 &nbsp;
 
+&nbsp;
 
 ---
 
+&nbsp;
 
 &nbsp;
 
@@ -124,9 +130,11 @@ Delavnica bo potekala v več delih. V drugem delu delavnice bomo spoznali delo n
 
 &nbsp;
 
+&nbsp;
 
 ---
 
+&nbsp;
 
 &nbsp;
 
@@ -144,6 +152,9 @@ Zaželena je predhodna udeležba na 1. in 2. delu delavnice
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
 
 
 
