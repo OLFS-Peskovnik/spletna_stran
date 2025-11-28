@@ -5,7 +5,7 @@ description: ""
 prijava: "https://1ka.arnes.si/a/ff4da000"
 ---
 
-# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/a/ff4da000)
+# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/a/ff4ds000)
 
 &nbsp;
 
