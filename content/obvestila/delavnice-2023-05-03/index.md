@@ -8,7 +8,6 @@ prijava: "https://1ka.arnes.si/a/4016a975"
 Spoznavanje Klipper okolja
 
 
-
 ## Spoznavanje Klipper okolja
 ### 3.5.2023 ob 16:00
 Izvajalec: Janko Tuta
