@@ -15,7 +15,7 @@ prijava: "https://1ka.arnes.si/a/3216b5b1"
 
 
 
-## Trojček osnovnih delavnic za uporabo Peskovnika
+## Trojček osnovnih delavnic za uporabo Peskovnika OPEN LAB I
 
 ### Ponedeljek med 14:00 in 17:00
 
