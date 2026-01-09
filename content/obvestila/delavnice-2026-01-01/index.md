@@ -1,5 +1,5 @@
 ---
-title: "Delavnice v tednu 01. 01 - 08. 01. 2025"
+title: "Delavnice v tednu 01. 01 - 08. 01. 2026"
 date: 2026-01-08T12:30:00+02:00
 description: ""
 prijava: "https://1ka.arnes.si/a/3216b5b1"
