@@ -5,7 +5,7 @@ description: ""
 ---
 
 
-Ta 3D-tiskalnik z LPBF 200-vatnim vlakenskim laserjem in galvo skenerjem hitro ustvarja kompleksne, lahke predmete s tankimi stenami. Njegova prilagodljivost podpira različne kovine (npr. kobalt-krom, nerjaveče jeklo itd.) z debelino plasti od 15 do 85 µm. Delovanje je poenostavljeno z dvojnim batom za dovajanje prahu in intuitivnim vmesnikom.
+3D-tiskalnik z LPBF 200W vlakenskim laserjem in galvo skenerjem hitro ustvarja kompleksne, lahke predmete s tankimi stenami. Njegova prilagodljivost podpira različne kovine (npr. kobalt-krom, nerjaveče jeklo itd.) z debelino plasti od 15 do 85 µm. Delovanje je poenostavljeno z dvojnim batom za dovajanje prahu in intuitivnim vmesnikom.
 
 
 &nbsp;
