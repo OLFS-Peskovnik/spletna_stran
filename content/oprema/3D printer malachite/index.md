@@ -19,3 +19,6 @@ V Peskovniku za pripravo datotek za obdelavo uporabljamo program Autodesk Fusion
 Za uporabo CNC rezkalnega stroja v Peskovniku je potrebno narediti usposabljanje "Fusion 360 CAM - 101", ki poteka v vnaprej napovedanih terminih, dostopnih na spletni strani Peskovnika.
 
 &nbsp;
+
+Pogoji uporabe: Študenti Univerze v ljubljani brezplčano (materila in odrodje si priense sam).
+                Zaposleni FS 10 €/h, za namene pedagoškega procesa brezplačno.  
