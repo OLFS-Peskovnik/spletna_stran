@@ -20,7 +20,7 @@ Priključek za inertni plin: mehki cevni konektor Ø6 mm
 
 &nbsp;
 
-3D-tiskalnik Malachite izdeluje trdne kovinske predmete z uporabo metode LPBF – laserskega taljenja prahu na dodajni plošči. Ta metoda vključuje nanašanje tankih plasti kovinskega prahu na ploščo, ki jih nato zaporedno visokozmogljiv laser tali. Plošča se z vsako končano plastjo spusti.
+3D-tiskalnik Malachite izdeluje trdne kovinske predmete z uporabo metode LPBF – laserskega taljenja kovinskega prahu na dodajni plošči. Ta tehnologija omogoča nanašanje tankih plasti kovinskega prahu na ploščo, ki jih nato visokozmogljiv laser zaporedno tali. Plošča se z vsako končano plastjo spusti.
 
 &nbsp;
 
