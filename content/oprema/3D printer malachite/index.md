@@ -10,21 +10,21 @@ Ta 3D-tiskalnik z LPBF 200-vatnim vlakenskim laserjem in galvo skenerjem hitro u
 
 &nbsp;
 
-Volumen tiskanja (G x V) Ø125 x 100 mm
-Debelina tiskane plasti 15 – 85 µm
-Moč laserja 200 W
-Inertni plin Argon, Dušik
-Tehnološki postopek LPBF (Laser Powder Bed Fusion)
+Volumen tiskanja (G x V) Ø125 x 100 mm,
+Debelina tiskane plasti 15 – 85 µm,
+Moč laserja 200 W,
+Inertni plin Argon, Dušik,
+Tehnološki postopek LPBF (Laser Powder Bed Fusion),
 Priključek za inertni plin: mehki cevni konektor Ø6 mm
 
 
 &nbsp;
 
-3D-tiskalnik Malachite izdeluje trdne kovinske predmete z uporabo metode LPBF – laserskega zlivanja prahu v postelji. Ta metoda vključuje nanašanje tankih plasti kovinskega prahu na gradbeno ploščo, ki jih nato zaporedno tali visokozmogljiv laser in galvo skener. Gradbena plošča se z vsako končano plastjo spusti.
+3D-tiskalnik Malachite izdeluje trdne kovinske predmete z uporabo metode LPBF – laserskega taljenja prahu na dodajni plošči. Ta metoda vključuje nanašanje tankih plasti kovinskega prahu na ploščo, ki jih nato zaporedno visokozmogljiv laser tali. Plošča se z vsako končano plastjo spusti.
 
 &nbsp;
 
-Za uporabo CNC rezkalnega stroja v Peskovniku je potrebno narediti usposabljanje "", ki poteka v vnaprej napovedanih terminih, dostopnih na spletni strani Peskovnika.
+Za uporabo 3D-tiskalnega stroja v Peskovniku je potrebno narediti usposabljanje "", ki poteka v vnaprej napovedanih terminih, dostopnih na spletni strani Peskovnika.
 
 &nbsp;
 
