@@ -15,7 +15,7 @@ Razpisna dokumentacija, pravilnik o pogojih za pridobitev sofinanciranja in prav
 
 #### [2. Pravilnik o nivojih članov v Peskovniku](/dokumenti/nivoji-clanov/)
 
-#### [3. OBRAZEC ZA PRIJAVO PROJEKTA](https://1ka.arnes.si/prijavaprojekta)
+#### [3. OBRAZEC ZA PRIJAVO PROJEKTA](https://1ka.arnes.si/a/fd6bc196)
 
 &nbsp;
 
