@@ -11,7 +11,7 @@ Razpisna dokumentacija, pravilnik o pogojih za pridobitev sofinanciranja in prav
 
 &nbsp;
 
-#### [1. Razpisna dokumentacija](/dokumenti/aktualni-razpis-za-studentske-projekte/)
+#### [1. Razpisna dokumentacija](/dokumenti/Razpis-za-studentske-projekte-letni-2026/)
 
 #### [2. Pravilnik o nivojih članov v Peskovniku](/dokumenti/nivoji-clanov/)
 
