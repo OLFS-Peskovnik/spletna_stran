@@ -34,5 +34,5 @@ Za uporabo 3D-tiskalnega stroja v Peskovniku je potrebno narediti usposabljanje 
 
 &nbsp;
 
-Pogoji uporabe: Študenti Univerze v Ljubljani brezplačno (material in orodje si prinese sam).
+Pogoji uporabe: Študenti Univerze v Ljubljani brezplačno (potrošni material si zagotovi sam).
                 Zaposleni FS 100 €/h, za namene pedagoškega procesa brezplačno.  
