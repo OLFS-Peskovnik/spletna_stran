@@ -19,6 +19,7 @@ V Peskovniku za tisk uporabljamo smole Phrozen Aqua 8k različnih barv in smolo 
 Za uporabo stroja v Peskovniku je potrebno narediti usposabljanje "Osnove Resin 3D tiska", ki poteka v vnaprej napovedanih terminih, dostopnih na spletni strani Peskovnika.
 
 &nbsp;
+
 Pogoji uporabe: Študenti Univerze v Ljubljani brezplačno (potrošni material si zagotovi sam).
                 Zaposleni UL €/h, za namene pedagoškega procesa brezplačno.  
 
