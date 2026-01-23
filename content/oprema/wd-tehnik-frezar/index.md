@@ -25,4 +25,4 @@ Za uporabo stroja v Peskovniku je potrebno narediti usposabljanje "Osnove uporab
 
 &nbsp;
 Pogoji uporabe: Študenti Univerze v Ljubljani brezplačno (potrošni material si zagotovi sam).
-                Zaposleni FS €/h, za namene pedagoškega procesa brezplačno.  
+                Zaposleni UL €/h, za namene pedagoškega procesa brezplačno.  

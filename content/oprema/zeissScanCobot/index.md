@@ -11,4 +11,4 @@ Zaradi svoje fleksibilnosti in prilagodljivosti je ZEISS ScanCobot primeren za �
 
 &nbsp;
 Pogoji uporabe: Študenti Univerze v Ljubljani brezplačno (potrošni material si zagotovi sam).
-                Zaposleni FS €/h, za namene pedagoškega procesa brezplačno.  
+                Zaposleni UL €/h, za namene pedagoškega procesa brezplačno.  

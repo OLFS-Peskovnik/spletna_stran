@@ -12,4 +12,4 @@ Sistem AMS omogoča tisk s 4 različnimi filamenti na enkrat. V programu Bambu S
 &nbsp;
 
 Pogoji uporabe: Študenti Univerze v Ljubljani brezplačno (potrošni material si zagotovi sam).
-                Zaposleni FS €/h, za namene pedagoškega procesa brezplačno.  
+                Zaposleni UL €/h, za namene pedagoškega procesa brezplačno.  
