@@ -24,4 +24,4 @@ description: ""
 &nbsp;
 
 Pogoji uporabe: Študenti Univerze v Ljubljani brezplačno (potrošni material si zagotovi sam).
-                Zaposleni FS 100 €/h, za namene pedagoškega procesa brezplačno.  
+                Zaposleni UL €/h, za namene pedagoškega procesa brezplačno.  

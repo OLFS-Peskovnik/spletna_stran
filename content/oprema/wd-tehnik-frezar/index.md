@@ -24,3 +24,5 @@ Na voljo je tudi merilno orodje (merilne urice, mikrometri, kljunasta merila, gr
 Za uporabo stroja v Peskovniku je potrebno narediti usposabljanje "Osnove uporabe rezkarja - 101", ki poteka v vnaprej napovedanih terminih, dostopnih na spletni strani Peskovnika.
 
 &nbsp;
+Pogoji uporabe: Študenti Univerze v Ljubljani brezplačno (potrošni material si zagotovi sam).
+                Zaposleni FS €/h, za namene pedagoškega procesa brezplačno.  

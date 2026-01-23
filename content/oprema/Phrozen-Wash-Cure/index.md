@@ -24,3 +24,5 @@ Uporablja se za utrjevanje očiščenih resin 3D tiskanih izdelkov iz "_green st
 <!--Visokozmogljiva postaja za strjevanje omogoča hitro in učinkovito 360° sušenje vaših 3D modelov z načinom sušenja in strjevanja. Za odlično uporabniško izkušnjo je postaja opremljena z zadnjo in spodnjo lučjo! -->
 
 &nbsp;
+Pogoji uporabe: Študenti Univerze v Ljubljani brezplačno (potrošni material si zagotovi sam).
+                Zaposleni UL €/h, za namene pedagoškega procesa brezplačno.  
