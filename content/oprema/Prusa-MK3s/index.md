@@ -11,6 +11,11 @@ V Peskovniku imamo dva identična stroja, ki smo ju iz kit-a sestavili sami in v
 
 Priprava datotek za FFF 3D tisk v Peskovniku poteka v programu Prusaslicer.
 
+&nbsp;
+
+Pogoji uporabe: Študenti Univerze v Ljubljani brezplačno (potrošni material si zagotovi sam).
+                Zaposleni UL €/h, za namene pedagoškega procesa brezplačno.  
+
 [//]: # (This may be the most platform independent comment)
 [//]: <> (This is also a comment.)
 [comment]: <> (This is a comment, it will not be included)
