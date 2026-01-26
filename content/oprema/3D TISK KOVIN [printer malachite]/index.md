@@ -1,5 +1,5 @@
 ---
-title: "3D TISK KOVIN [Malachite 3D printer]"
+title: "3D Tisk kovin [Malachite 3D printer]"
 date: 2023-01-01T17:01:25+01:00
 description: ""
 ---
