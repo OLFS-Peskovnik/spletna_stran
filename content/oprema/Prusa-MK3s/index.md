@@ -1,6 +1,6 @@
 ---
 title: "3D FDM tiskalnik Prusa Mk3S+"
-date: 2022-01-02T17:02:25+01:00
+date: 2025-03-01T17:02:25+01:00
 description: ""
 features: 
 ---
