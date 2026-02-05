@@ -1,6 +1,6 @@
 ---
 title: "3D Tisk kovin [Malachite 3D printer]"
-date: 2023-01-01T17:01:25+01:00
+date: 2024-12-01T17:01:25+01:00
 description: ""
 ---
 
@@ -35,4 +35,4 @@ Za uporabo 3D-tiskalnega stroja v Peskovniku je potrebno narediti usposabljanje 
 &nbsp;
 
 Pogoji uporabe: Študenti Univerze v Ljubljani brezplačno (potrošni material si zagotovi sam).
-                Zaposleni UL 100 €/h, za namene pedagoškega procesa brezplačno.  
+                Zaposleni UL 100€/h, za namene pedagoškega procesa brezplačno.  
