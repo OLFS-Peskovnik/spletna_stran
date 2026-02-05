@@ -1,6 +1,6 @@
 ---
 title: "3D Resin tiskalnik Phrozen Sonic Mini 8k"
-date: 2025-04-01T17:02:25+01:00
+date: 2025-03-01T17:02:25+01:00
 description: ""
 ---
 
