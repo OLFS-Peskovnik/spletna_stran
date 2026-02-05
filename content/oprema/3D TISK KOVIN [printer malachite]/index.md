@@ -1,6 +1,6 @@
 ---
 title: "3D Tisk kovin [Malachite 3D printer]"
-date: 2025-12-01T17:01:25+01:00
+date: 2025-11-01T17:01:25+01:00
 description: ""
 ---
 
