@@ -1,6 +1,6 @@
 ---
 title: "Univerzalna stružnica US5X1000 PLUS"
-date: 2023-01-03T17:02:25+01:00
+date: 2024-01-03T17:02:25+01:00
 description: ""
 ---
 
