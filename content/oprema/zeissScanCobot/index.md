@@ -1,6 +1,6 @@
 ---
 title: "ZEISS ScanCobot"
-date: 
+date: 2023-01-01T17:01:25+01:00
 description: ""
 ---
 ZEISS ScanCobot je napreden robotski sistem za brezstično 3D merjenje, ki ga je razvilo podjetje ZEISS, znano po svojih natančnih in inovativnih merilnih tehnologijah. Ta robotski sistem omogoča hitro in natančno skeniranje kompleksnih geometrijskih oblik z visoko ločljivostjo in brez potrebe po neposrednem stiku z merjenimi objekti.
