@@ -1,6 +1,6 @@
 ---
 title: "Bambu Lab X1C + AMS"
-date: 
+date: 2025-05-01T17:02:25+01:00
 description: ""
 ---
 Bambu Lab X1 Carbon (X1C) je 3D tiskalnik z delovnim volumnom dimenzij 256 x 256 x 256 mm, ki omogoča visoko kakovost tiska ter zanesljivost pri visoki hitrosti. S tiskalnikom lahko tiskamo običajne filamente kot so PLA, PETG, ASA, ipd. Omogoča pa tudi tisk z bolj naprednimi materiali kot so PA6, PC, Najlon, ipd. V Peskovniku imamo na voljo tudi različne podlage za tisk.
