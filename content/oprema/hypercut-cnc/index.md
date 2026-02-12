@@ -21,4 +21,4 @@ Za uporabo CNC rezkalnega stroja v Peskovniku je potrebno narediti usposabljanje
 &nbsp;
 
 Pogoji uporabe: Študenti Univerze v Ljubljani brezplačno (potrošni material si zagotovi sam).
-                Zaposleni UL  €/h, za namene pedagoškega procesa brezplačno.  
+                Zaposleni UL 10,2 €/h, za namene pedagoškega procesa brezplačno.  
