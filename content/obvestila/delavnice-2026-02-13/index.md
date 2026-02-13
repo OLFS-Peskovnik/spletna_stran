@@ -2,10 +2,11 @@
 title: "Delavnice v tednu 16. 02. - 20. 12. 2026"
 date: 2026-02-12T12:30:00+02:00
 description: ""
-prijava: " https://1ka.arnes.si/tedenskedelavnice"
+prijava: "https://1ka.arnes.si/a/7b77a47e"
 ---
 
-# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/tedenskedelavnice)
+# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/a/7b77a47e)
+
 
 &nbsp;
 
@@ -94,7 +95,7 @@ Delavnica varne uporabe Peskovnika zajema osnovna načela varnosti pri delu z or
 
 
 
-# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/tedenskedelavnice)
+# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/a/7b77a47e)
 
 &nbsp;
 
