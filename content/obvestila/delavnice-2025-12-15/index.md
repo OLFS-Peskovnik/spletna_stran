@@ -2,10 +2,10 @@
 title: "Delavnice v tednu 15. 12. - 19. 12. 2025"
 date: 2025-12-10T12:30:00+02:00
 description: ""
-prijava: "https://1ka.arnes.si/tedenskedelavnice "
+prijava: "https://1ka.arnes.si/a/50557860"
 ---
 
-# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/tedenskedelavnice)
+# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/a/50557860)
 
 &nbsp;
 
@@ -126,8 +126,7 @@ Delavnica je namenjena tako začetnikom kot tudi tistim z že nekaj izkušnjami,
 
 
 
-# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/tedenskedelavnice)
-
+# [PRIJAVA NA DELAVNICE (prijave so odprte do zapolnitve mest)](https://1ka.arnes.si/a/50557860)
 &nbsp;
 
 Prijavi se na delavnice, ki te zanimajo in katerih se imaš namen udeležiti.
