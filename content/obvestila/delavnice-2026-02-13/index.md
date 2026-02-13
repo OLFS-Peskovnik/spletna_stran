@@ -60,6 +60,7 @@ Za pridobitev statusa _Pripravnika_ je potrebno še podpisati člansko zaobljubo
 &nbsp;
 
 Na delavnici se bomo spoznali z osnovami FDM oz. FFF 3D tiskalnikov. Pogledali si bomo različne vrste 3D tiska, načinov premikanja in podajanja filamentov. Spoznali bomo tudi različne vrste filamentov, šob in podlag za tiskanje.
+
 &nbsp;
 
 ### 16:00 - Osnove uporabe CO2 laserja
@@ -80,10 +81,6 @@ Podrobneje si bomo ogledali  tudi program PrusaSlicer in različne nastavitve, k
 &nbsp;
 
 Delavnica varne uporabe Peskovnika zajema osnovna načela varnosti pri delu z orodji, stroji in nevarnimi snovmi ter uporabo varnostne opreme. Namenjena je zagotavljanju varnega in produktivnega delovnega okolja v Peskovniku. Hkrati na delavnici udeleženci tudi spoznajo, katera oprema in orodja se nahajajo v prostoru in so na voljo za uporabo. 
-
-&nbsp;
-
-&nbsp;
 
 
 
