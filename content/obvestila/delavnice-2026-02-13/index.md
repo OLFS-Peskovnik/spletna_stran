@@ -55,14 +55,14 @@ Za pridobitev statusa _Pripravnika_ je potrebno še podpisati člansko zaobljubo
 
 
 
-### 14:00 - Osnove 3D tiska (tehnologija FDM/FFF)
+### 15:00 - Osnove 3D tiska (tehnologija FDM/FFF)
 
 &nbsp;
 
 Na delavnici se bomo spoznali z osnovami FDM oz. FFF 3D tiskalnikov. Pogledali si bomo različne vrste 3D tiska, načinov premikanja in podajanja filamentov. Spoznali bomo tudi različne vrste filamentov, šob in podlag za tiskanje.
 &nbsp;
 
-### 15:00 - Osnove uporabe CO2 laserja
+### 16:00 - Osnove uporabe CO2 laserja
 
 &nbsp;
 
@@ -71,14 +71,11 @@ Na delavnici se bomo naučili, kako se varno uporablja CO2 laser, nastavlja njeg
 &nbsp;
 
 
-
-&nbsp;
-
 Podrobneje si bomo ogledali  tudi program PrusaSlicer in različne nastavitve, ki jih ponuja in različne spletne strani z brezplačnimi modeli. 
 
 &nbsp;
 
-### 16:00 - Varna uporaba Peskovnika
+### 17:00 - Varna uporaba Peskovnika
 
 &nbsp;
 
