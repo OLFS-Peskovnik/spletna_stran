@@ -34,6 +34,7 @@ Delavnica je namenjena tako začetnikom kot tudi tistim z že nekaj izkušnjami,
 
 &nbsp;
 
+---
 
 &nbsp;
 
@@ -84,7 +85,7 @@ Delavnica varne uporabe Peskovnika zajema osnovna načela varnosti pri delu z or
 
 &nbsp;
 
----
+
 
 
 &nbsp;
