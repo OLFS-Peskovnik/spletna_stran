@@ -35,8 +35,6 @@ Delavnica je namenjena tako začetnikom kot tudi tistim z že nekaj izkušnjami,
 &nbsp;
 
 
----
-
 &nbsp;
 
 &nbsp;
