@@ -53,9 +53,16 @@ Udeležba na osnovnih delavnicah (FDM 3D tisk, CO2 laser in Osnove uporabe prost
 
 Za pridobitev statusa _Pripravnika_ je potrebno še podpisati člansko zaobljubo in izpolniti vprašalnik varnosti pri delu dostopen na spletni učilnici FS UL (študenti ostalih članic UL nas glede opravljanja vprašalnika varnosti pri delu kontaktirajte na email *peskovnik.fs.uni-lj.si*). 
 
+
+
+### 14:00 - Osnove 3D tiska (tehnologija FDM/FFF)
+
 &nbsp;
 
-### 14:00 - Osnove uporabe CO2 laserja
+Na delavnici se bomo spoznali z osnovami FDM oz. FFF 3D tiskalnikov. Pogledali si bomo različne vrste 3D tiska, načinov premikanja in podajanja filamentov. Spoznali bomo tudi različne vrste filamentov, šob in podlag za tiskanje.
+&nbsp;
+
+### 15:00 - Osnove uporabe CO2 laserja
 
 &nbsp;
 
@@ -63,11 +70,7 @@ Na delavnici se bomo naučili, kako se varno uporablja CO2 laser, nastavlja njeg
 
 &nbsp;
 
-### 15:00 - Osnove 3D tiska (tehnologija FDM/FFF)
 
-&nbsp;
-
-Na delavnici se bomo spoznali z osnovami FDM oz. FFF 3D tiskalnikov. Pogledali si bomo različne vrste 3D tiska, načinov premikanja in podajanja filamentov. Spoznali bomo tudi različne vrste filamentov, šob in podlag za tiskanje.
 
 &nbsp;
 
