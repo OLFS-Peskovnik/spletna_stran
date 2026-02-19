@@ -21,7 +21,6 @@ prijava: "https://1ka.arnes.si/aktualnedelavnice"
 
 &nbsp;
 
-
 Na delavnici se bo najprej izdelalo in potem še sprogramiralo 3x3 mehansko tipkovnico. 
 
 &nbsp;
