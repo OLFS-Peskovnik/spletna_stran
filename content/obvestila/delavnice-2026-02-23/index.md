@@ -33,55 +33,13 @@ Zaželeno je, da si pred udeležbo delavnice pridobite osnovna znanja o spajkanj
 
 &nbsp;
 
-
----
-
-
-&nbsp;
-
-## Rezkar za začetnike - 1. del
-
-### Torek ob 16.00
-
-&nbsp;
-
-Na osnovni delavnici za rezkanje bo predstavljeno varno ravnanje z rezkalnim strojem, predstavljeni bodo parametri in načini rezkanja ter osnove vpenjanja in izbire orodja. 
-
-&nbsp;
-
-Ogledali si bomo vse dele stroja in orodja ter vpenjala, in izdelali enostaven izdelek z nekaj utori in različnimi obdelovalnimi strategijami.
-
-&nbsp;
-
-
----
-
-&nbsp;
-
-## Spajkanje
-
-### Sreda ob 15.00
-
-
-&nbsp;
-
-Na delavnici bomo spoznali osnove spajkanja THT komponent, uporabe generatorja napetosti, uporabe multimetra, osnove elektrotehnike ter povezovanja in funkcije nekaterih elektronskih komponent.
-
-&nbsp;
-
-Vsak udeleženec bo imel priložnost pridobiti znanje dela s spajkalnikom, ki je koristno za številne malonapetostne ter velikonapetostne elektronske projekte in popravila.
-
-&nbsp;
-
-
-
 ---
 
 &nbsp;
 
 ## Trojček osnovnih delavnic za uporabo Peskovnika
 
-### Četrtek med 15.00 in 18.00
+### Sreda med 15.00 in 18.00
 
 
 &nbsp;
