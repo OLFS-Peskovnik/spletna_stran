@@ -121,6 +121,8 @@ Delavnica varne uporabe Peskovnika zajema osnovna načela varnosti pri delu z or
 
 ---
 
+<br>
+
 &nbsp;
 
 ## Predstavitev projektov - Donatorski dogodek 
