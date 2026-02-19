@@ -15,49 +15,20 @@ prijava: "https://1ka.arnes.si/aktualnedelavnice"
 
 
 
-## Trojček osnovnih delavnic za uporabo Peskovnika
+## Izdelava 3x3 mehanske tipkovnice - Macropad
 
-### Ponedeljek med 15.00 in 18.00
-
-
-&nbsp;
-
-Udeležba na osnovnih delavnicah (FDM 3D tisk, CO2 laser in Osnove uporabe prostora) je potrebna za pridobitev statusa _Pripravnika_ v Peskovniku. Pripravniki lahko prostor uporabljajo skladno s _Pravilnikom o nivojih članov v Peskovniku_, ki je dostopen v zavihku spletne strani "Dokumenti".  
+### Ponedeljek ob 13.00
 
 &nbsp;
 
-Za pridobitev statusa _Pripravnika_ je potrebno še podpisati člansko zaobljubo in izpolniti vprašalnik varnosti pri delu dostopen na spletni učilnici FS UL (študenti ostalih članic UL nas glede opravljanja vprašalnika varnosti pri delu kontaktirajte na email *peskovnik.fs.uni-lj.si*). 
+
+Na delavnici se bo najprej izdelalo in potem še sprogramiralo 3x3 mehansko tipkovnico. 
+
+Tipkovnica bo sestavljena brez tiskanega vezja, zato bo potrebno žice in diode spajkati na stikala in arduino. Sledi programiranje tipkovnice s programsko opremo QMK(Quantum mechanical keyboard). Vsak si bo lahko funkcije tipk sprogramiral po svojih željah. 
+
+Zaželeno je, da si pred udeležbo delavnice pridobite osnovna znanja o spajkanju. 
 
 &nbsp;
-
-### 15.00 - Osnove uporabe CO2 laserja
-
-&nbsp;
-
-Na delavnici se bomo naučili, kako se varno uporablja CO2 laser, nastavlja njegove nastavitve in pripravlja grafike zanj v programu RDWorks oz. Lightburn. 
-
-&nbsp;
-
-### 16.00 - Osnove 3D tiska (tehnologija FDM/FFF)
-
-&nbsp;
-
-Na delavnici se bomo spoznali z osnovami FDM oz. FFF 3D tiskalnikov. Pogledali si bomo različne vrste 3D tiska, načinov premikanja in podajanja filamentov. Spoznali bomo tudi različne vrste filamentov, šob in podlag za tiskanje.
-
-&nbsp;
-
-Podrobneje si bomo ogledali  tudi program PrusaSlicer in različne nastavitve, ki jih ponuja in različne spletne strani z brezplačnimi modeli. 
-
-&nbsp;
-
-### 17.00 - Varna uporaba Peskovnika
-
-&nbsp;
-
-Delavnica varne uporabe Peskovnika zajema osnovna načela varnosti pri delu z orodji, stroji in nevarnimi snovmi ter uporabo varnostne opreme. Namenjena je zagotavljanju varnega in produktivnega delovnega okolja v Peskovniku. Hkrati na delavnici udeleženci tudi spoznajo, katera oprema in orodja se nahajajo v prostoru in so na voljo za uporabo. 
-
-&nbsp;
-
 
 
 ---
