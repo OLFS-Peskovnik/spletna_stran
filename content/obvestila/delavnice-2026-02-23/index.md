@@ -23,15 +23,11 @@ prijava: "https://1ka.arnes.si/aktualnedelavnice"
 
 Na delavnici se bo najprej izdelalo in potem še sprogramiralo 3x3 mehansko tipkovnico. 
 
-&nbsp;
-
 Tipkovnica bo sestavljena brez tiskanega vezja, zato bo potrebno žice in diode spajkati na stikala in arduino. 
 
 &nbsp;
 
 Sledi programiranje tipkovnice s programsko opremo QMK(Quantum mechanical keyboard). Vsak si bo lahko funkcije tipk sprogramiral po svojih željah. 
-
-&nbsp;
 
 Zaželeno je, da si pred udeležbo delavnice pridobite osnovna znanja o spajkanju. 
 
