@@ -33,6 +33,7 @@ Zaželeno je, da si pred udeležbo delavnice pridobite osnovna znanja o spajkanj
 
 ---
 
+
 &nbsp;
 
 ## Rezkar za začetnike - 1. del
@@ -122,17 +123,15 @@ Delavnica varne uporabe Peskovnika zajema osnovna načela varnosti pri delu z or
 
 &nbsp;
 
-## Stružnica za začetnike - 1. del
+## Predstavitev projektov - Donatorski dogodek 
 
 ### Petek ob 14.00
 
 &nbsp;
 
-Delavnica je namenjena študentom, ki se želijo naučiti osnov dela s stružnico. Na delavnici se boste naučili osnovnih tehnik uporabe stružnice, kot so nastavljanje hitrosti vrtenja in pomikov, vpenjanje kosa, izbira orodja in nastavljanje globine rezanja. Poleg tega boste spoznali varnostne ukrepe pri delu s stružnico ter se naučili prepoznati in preprečevati morebitne nevarnosti. Ob koncu delavnice naj bi vsak udeleženec imel dovolj znanja za (samostojno) varno delo na stružnici v Peskovniku.
 
 &nbsp;
 
-Delavnica je namenjena tako začetnikom kot tudi tistim z že nekaj izkušnjami, ki bi želeli uporabljati stružnico in orodja v Peskovniku.
  
 &nbsp;
 
