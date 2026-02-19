@@ -1,6 +1,6 @@
 ---
 title: "Delavnice v tednu 23. 02. - 27. 02. 2026"
-date: 2026-02-19T11:30:00+02:00
+date: 2026-02-19T10:30:00+02:00
 description: ""
 prijava: "https://1ka.arnes.si/aktualnedelavnice"
 ---
