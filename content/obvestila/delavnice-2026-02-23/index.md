@@ -86,7 +86,7 @@ Delavnica varne uporabe Peskovnika zajema osnovna načela varnosti pri delu z or
 
 ## Predstavitev projektov - Donatorski dogodek 
 
-### Petek ob 14.00
+### Petek ob 12.00
 
 &nbsp;
 
